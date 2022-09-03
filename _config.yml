@@ -10,8 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+#remote_theme: pages-themes/minimal@v0.2.0
+
+
+#theme                  : "minimal-mistakes-jekyll"
+remote_theme           : mmistakes/minimal-mistakes@4.24.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-include-cache
+
 minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,9 +28,9 @@ title_separator          : "-"
 subtitle                 : site tagline that appears below site title in masthead
 name                     : "jwentong"
 description              : "An amazing website."
-url                      : "https://jwentong.github.io/" & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jwentong/jwentong.github.io e.g. "mmistakes/minimal-mistakes"
+repository               : jwentong/jwentong.github.io #e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
