@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-CN
   #- title: "Sample Posts"
   #  url: https://jwentong.github.io/
   # - title: "Sample Collections"
