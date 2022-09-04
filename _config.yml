@@ -25,7 +25,7 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "Jingwen Tong's Homepage"
 title_separator          : "-"
-subtitle                 : site tagline that appears below site title in masthead
+subtitle                 : 
 name                     : "jwentong"
 description              : "An amazing website."
 url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
@@ -111,18 +111,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingwen Tong"
+  name             : "Dr. Jingwen Tong"
   avatar           : "/assets/images/JingwenTong1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Dr. Jingwen Tong"
-  location         : "Hong Kong, China"
+  bio              : "A Postdoc Fellow in HKUST"
+  location         : "Room 3120, Acdemic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong"
   email            : "eejwentong@ust.hk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      #url: "eejwentong@ust.hk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-CN"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -131,7 +131,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      #url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
