@@ -40,7 +40,6 @@ The Hong Kong University of Science and Technology (HKUST)
 - We are organizing a conference workshop with Huawei on Sep. 15-16 titled "[Huawei-HKUST Joint workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). (Sep. 4, 2022)
 - I received the Ph.D. degree from Xiamen University. (Jun. 27, 2022)
 - I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang. (Mar. 2022)
-- 
 
 ---
 # Publications
