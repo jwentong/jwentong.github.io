@@ -26,7 +26,7 @@ The Hong Kong University of Science and Technology (HKUST)
 * 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. Min Jin.
 
 ---
-# Research Interest
+# Research Interests
 * [Multi-Armed Bandit (MAB)](./another-page.html)
 
 * Wireless Communications
@@ -34,12 +34,12 @@ The Hong Kong University of Science and Technology (HKUST)
 * Optimization and Game Theory
 
 ---
-# Research News
+# What's News
 
 {: .text-justify}
-- We are organizing a conference workshop with Huawei on 15-16 September titled "[Huawei-HKUST Joint workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). 
-- I am receiving my Ph.D. degree from Xiamen University in June 27.
-- I got the Postdoctoral Fellow in Dept. of ECE in The Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang.
+- We are organizing a conference workshop with Huawei on Sep. 15-16 titled "[Huawei-HKUST Joint workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). (Sep. 4, 2022)
+- I am receiving the Ph.D. degree from Xiamen University. (Jun. 27, 2022)
+- I am receiving the Postdoctoral Fellow in Dept. of ECE in The Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang. (Mar. 2022)
 
 ---
 # Publications
