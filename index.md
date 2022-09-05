@@ -10,22 +10,22 @@ Department of Electronic and Computer Engineering (ECE)
 {: .text-justify} 
 The Hong Kong University of Science and Technology (HKUST)
 
-
+---
 # Biography
 {: .text-justify}
 
-* 2022.08-Now, Postdoctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/);
+* 2022.08-Now, Postdoctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. Jun Zhang;
 
 {: .text-justify}
-* 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/);
+* 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. Liqun Fu;
 
 {: .text-justify}
-* 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/);
+* 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. Zhu Han;
 
 {: .text-justify}
-* 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/)
+* 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. Min Jin.
 
-
+---
 # Research Interest
 * [Multi-Armed Bandit (MAB)](./another-page.html)
 
@@ -33,6 +33,15 @@ The Hong Kong University of Science and Technology (HKUST)
 
 * Optimization and Game Theory
 
+---
+# Research News
+
+{: .text-justify}
+- We are organizing a conference workshop with Huawei on 15-16 September titled "[Huawei-HKUST Joint workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). 
+- I am receiving my Ph.D. degree from Xiamen University in June 27.
+- I got the Postdoctoral Fellow in Dept. of ECE in The Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang.
+
+---
 # Publications
 ### Journal
 
