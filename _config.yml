@@ -27,7 +27,7 @@ title                    : "Jingwen Tong's Homepage"
 title_separator          : "-"
 subtitle                 : 
 name                     : "jwentong"
-description              : "An amazing website."
+description              : #"An amazing website."
 url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jwentong/jwentong.github.io #e.g. "mmistakes/minimal-mistakes"
@@ -163,6 +163,7 @@ footer:
 include:
   - .htaccess
   - _pages
+    _site
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -295,5 +296,21 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      share: true
+      related: true
+
+
+
+ 
+defaults:
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: #true
       share: true
       related: true
