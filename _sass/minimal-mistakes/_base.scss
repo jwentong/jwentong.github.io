@@ -27,8 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  margin: 1em 0 1em;
+  line-height: 1.0;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -65,6 +65,7 @@ small,
 
 p {
   margin-bottom: 1.3em;
+  font-size: $type-size-jw;
 }
 
 u,
@@ -112,6 +113,7 @@ blockquote {
   padding-right: 1em;
   font-style: italic;
   border-left: 0.25em solid $primary-color;
+  
 
   cite {
     font-style: italic;
@@ -174,11 +176,13 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
+  font-size: $type-size-jw;
 }
 
 li ul,
 li ol {
   margin-top: 0.5em;
+  font-size: $type-size-jw;
 }
 
 /*
