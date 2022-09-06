@@ -18,4 +18,3 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-<img src="avatar.png" alt="Avatar" class="avatar">
