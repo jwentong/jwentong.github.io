@@ -5,16 +5,27 @@ title: Service
 permalink: /service/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Reviewer for**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+{: .text-justify}
+* IEEE Transaction on Wireless Communications, 
+* IEEE Transaction on Communications, 
+* IEEE Transaction on Vehicular Technology, 
+* IEEE Communications Magazine,   
+* IEEE Transactions on Mobile Computing,  
+* IEEE Journal on Selected Areas in Communications,  
+* IEEE Communications Letters, 
+* IEEE Wireless Communications Letters,  
+* Conferences ICC, VTC, Globecom, INFOCOM
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
 
+**Session Chair**
 
-[jekyll-organization]: https://github.com/jekyll
+{: .text-justify}
+* IEEE/CIC International Conference on Communications in China (ICCC), 2021
 
+**Workshop Organization**
+
+{: .text-justify}
+* Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
