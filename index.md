@@ -20,17 +20,17 @@ His mian research interest inlcudes [multi-armed bandit (MAB)](./another-page.ht
 ### Biography
 
 {: .text-justify}
-* 2022.08-Now, Postdoctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. Jun Zhang; 
+* 2022.08-Now, Postdoctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
 
 
 {: .text-justify}
-* 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. Liqun Fu;
+* 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab.xmu.edu.cn/);
 
 {: .text-justify}
-*  2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. Zhu Han;
+*  2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
 
 {: .text-justify}
-* 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. Min Jin.
+* 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
 
 
 ---
