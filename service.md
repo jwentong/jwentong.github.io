@@ -18,7 +18,7 @@ permalink: /service/
 * IEEE Communications Letters, 
 * IEEE Wireless Communications Letters, 
 * Journal of Communications and Information Networks
-* Conferences ICC, VTC, Globecom, INFOCOM
+* Conferences ICC, VTC, Globecom, Infocom
 
 ---
 
