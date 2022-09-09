@@ -8,17 +8,17 @@ permalink: /service/
 **Reviewer for**
 
 {: .text-justify}
-* IEEE Transaction on Wireless Communications, 
-* IEEE Transaction on Communications, 
-* IEEE Transaction on Vehicular Technology, 
-* IEEE Transaction on Cognitive Communications and Networking, 
-* IEEE Communications Magazine,   
-* IEEE Transactions on Mobile Computing,  
-* IEEE Journal on Selected Areas in Communications,  
-* IEEE Communications Letters, 
-* IEEE Wireless Communications Letters, 
+* IEEE Transaction on Wireless Communications
+* IEEE Transaction on Communications
+* IEEE Transaction on Vehicular Technology 
+* IEEE Transaction on Cognitive Communications and Networking 
+* IEEE Communications Magazine  
+* IEEE Transactions on Mobile Computing 
+* IEEE Journal on Selected Areas in Communications  
+* IEEE Communications Letters 
+* IEEE Wireless Communications Letters 
 * Journal of Communications and Information Networks
-* Conferences ICC, VTC, Globecom, Infocom
+* Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
 
 ---
 
