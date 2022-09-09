@@ -314,3 +314,17 @@ defaults:
       comments: #true
       share: true
       related: true
+      
+  
+defaults:
+  # _service
+  - scope:
+      path: ""
+      type: honor
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: #true
+      share: true
+      related: true
