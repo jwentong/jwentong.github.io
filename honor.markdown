@@ -17,7 +17,7 @@ permalink: /honor/
 * National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2016 and 2017 
 * Outstanding Graduate from China Jiliang University, 2015
 * National Inspirational Scholarship, ranked 2/80, 2013 
-* National Undergraduate Electronic Design Competition, Second Prize (The Texas Instruments Cup), 2013 
+* National Undergraduate Electronic Design Competition, Second Prize，The Texas Instruments Cup, 2013 
 
 
 
