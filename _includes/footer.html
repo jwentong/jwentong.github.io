@@ -1,27 +1,10 @@
 <div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
-  </ul>
 </div>
 
 
 <table border="0">
 <tr>
-<td><div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>  </td>
+<td> <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>  </td>
 <td><script type="text/javascript" src="//counter.websiteout.net/js/15/6/0/0"></script> </td>
 <td> 锲而含之，朽木不折；锲而不舍，金石可镂。——《荀子劝学》</td>
 <td><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rgyvz9d6k5&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=33&amp;s=170" async="async"></script>
