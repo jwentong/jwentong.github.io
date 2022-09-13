@@ -30,9 +30,9 @@ His mian research interest inlcudes [multi-armed bandit (MAB)](./another-page.ht
 ### What's News
 
 {: .text-justify}
-- We are organizing a conference workshop with Huawei on Sept. 15-16 titled "[Huawei-HKUST Joint workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). (Sept. 4, 2022)
+- We are organizing a conference workshop with Huawei on Sept. 15-16 titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". [Register here](https://hkust.zoom.us/webinar/register/WN_qwGqcFEiSHyXpN9B4S7MnA). (Sept. 4, 2022)
 - I received the Ph.D. degree from Xiamen University. (Jun. 27, 2022)
-- I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang. (Mar. 23, 2022)
+- I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. (Mar. 23, 2022)
 
 ---
 ### Publications
