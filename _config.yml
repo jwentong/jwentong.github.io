@@ -113,9 +113,9 @@ analytics:
 author:
   name             : "Dr. Jingwen Tong"
   avatar           : "/assets/images/JingwenTong1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Email：eejwentong@ust.hk; jwentong@foxmail.com"
+  bio              : "School of Informatics, Xiamen University"
+  email            : "eejwentong@ust.hk"
   location         : "Room 3120, Acdemic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong"
-  #email            : "eejwentong@ust.hk"
   links:
    # - label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
