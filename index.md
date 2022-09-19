@@ -12,7 +12,7 @@ Department of Electronic and Computer Engineering (ECE)
 The Hong Kong University of Science and Technology (HKUST) 
 
 {: .text-justify}
-His mian research interest inlcudes [multi-armed bandit (MAB)](./another-page.html), wireless communications, resource allocation, optimization,  and game theory.
+His mian research interests inlcude [multi-armed bandit (MAB)](./another-page.html), wireless communications, resource allocation, optimization,  and game theory.
 
 
 
@@ -30,7 +30,7 @@ His mian research interest inlcudes [multi-armed bandit (MAB)](./another-page.ht
 ### What's News
 
 {: .text-justify}
-- We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". (Sept. 4, 2022)
+- We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". (Sept. 16, 2022)
 - I received the Ph.D. degree from Xiamen University. (Jun. 27, 2022)
 - I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. (Mar. 23, 2022)
 
