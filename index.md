@@ -12,7 +12,7 @@ Department of Electronic and Computer Engineering (ECE)
 The Hong Kong University of Science and Technology (HKUST) 
 
 {: .text-justify}
-His mian research interests inlcude [multi-armed bandit (MAB)](./another-page.html), wireless communications, resource allocation, optimization,  and game theory.
+His main research interests include [multi-armed bandit (MAB)](./another-page.html), wireless communications, resource allocation, optimization,  and game theory.
 
 
 
