@@ -40,7 +40,7 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 **Journal:**
 
 {: .text-justify} 
-*   J. Tong, L. Fu and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305..
+*   J. Tong, L. Fu and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
 *   J. Tong, H. Zhang, L. Fu, A. Leshem and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679.
 *   J. Tong, L. Fu and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug.1, 2021, doi: 10.1109/JIOT.2021.3068182.
 *   J. Tong, M. Jin, Q. Guo and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, April 2018, doi: 10.1109/TWC.2018.2801833.
