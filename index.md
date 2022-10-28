@@ -31,7 +31,7 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 
 {: .text-justify}
 - We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". (Sept. 16, 2022)
-- I received the Ph.D. degree from Xiamen University. (Jun. 27, 2022)
+- I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. (Jun. 27, 2022)
 - I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. (Mar. 23, 2022)
 
 ---
