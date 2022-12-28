@@ -23,8 +23,8 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 * 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
 * 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 * 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
-* 2015.06-2018.09, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-
+* 2015.09-2018.06, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
+* 2011.09-2015.06, B.S. Degree, Coummunication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
 
 ---
 ### What's News
