@@ -12,7 +12,7 @@ Department of Electronic and Computer Engineering (ECE)
 The Hong Kong University of Science and Technology (HKUST) 
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in electrical engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in Department of Information and Coummunication Engineering from Ningbo University,
+*Jingwen Tong* received the B.E. degree in Coummunication engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in Department of Information and Coummunication Engineering from Ningbo University,
 Ningbo, China, in 2018. He received the Ph.D. degree in Department of Information and Coummunication Engineering from Xiamen University, Xiamen, China, in 2022. Currently, he is a Postdoc. Fellow in Department of ECE at HKUST.
 His main research interests include multi-armed bandit (MAB), wireless communications, resource allocation, optimization, and game theory.
 
@@ -31,7 +31,7 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 ### What's News
 
 {: .text-justify}
-- [10/2022] A paper titled *online resource allocation for user experience improvement in mobile edge clouds* has been submited to possible journal publication.
+- [10/2022] A paper titled *online resource allocation for user experience improvement in mobile edge clouds* has been submitted to possible journal publication.
 - [09/2022] We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
 - [06/2022] I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. 
 - [03/2022] I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
