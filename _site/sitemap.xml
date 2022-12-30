@@ -9,4 +9,8 @@
 <url>
 <loc>http://localhost:4000/service/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/documents/MPMAB_RIS_TwoColumn.pdf</loc>
+<lastmod>2022-10-25T20:16:43+08:00</lastmod>
+</url>
 </urlset>
