@@ -56,9 +56,20 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 *   J. Tong, S. Lai, L. Fu and Z. Han, "Optimal Frequency and Rate Selection Using Unimodal Objective Based Thompson Sampling Algorithm," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9148988.
 *   J. Tong, L. Fu and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks via Adversarial Multi-Player Multi-Armed Bandit," 2019 IEEE Global Communications Conference (GLOBECOM), 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013810.
 
-**Patent**
+**Patent:**
 
-![test](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/JingwenTong1.jpg)
+{: .text-justify} 
+* 岳蕾,赖舒悦,童景文,付立群. 一种提升水声通信链路平均吞吐量的方法[P]. 福建省：CN111431628B,2021-07-06.
+* 付立群,童景文,岳蕾. 一种利用MAB提升全双工CSMA网络吞吐量的方法[P]. 福建省：CN110233762B,2021-03-09.
+* 童景文,金明,姚俊腾. 针对时间同步且不存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107196720B,2020-08-14.
+* 姚俊腾,金明,童景文. 针对时间同步且存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107465473B,2020-07-03.
+* 童景文,金明. 一种基于软融合策略的盲协作频谱感知方法[P]. 浙江省：CN107770778B,2020-01-21.
+* 付彩梅,李有明,童景文,余明宸,周桂莉. 一种基于比特交换的多用户电力线通信系统资源分配方法[P]. 浙江省：CN105656612B,2018-06-26.
+* 童景文,金明. 一种基于贝叶斯准则和能量检测法的频谱感知方法[P]. 浙江：CN106788817A,2017-05-31.
+
+
+
+![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/JingwenTong1.jpg)
 
 
 
