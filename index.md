@@ -56,6 +56,9 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 *   J. Tong, S. Lai, L. Fu and Z. Han, "Optimal Frequency and Rate Selection Using Unimodal Objective Based Thompson Sampling Algorithm," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9148988.
 *   J. Tong, L. Fu and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks via Adversarial Multi-Player Multi-Armed Bandit," 2019 IEEE Global Communications Conference (GLOBECOM), 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013810.
 
+**Patent**
+
+![test](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/JingwenTong1.jpg)
 
 
 
