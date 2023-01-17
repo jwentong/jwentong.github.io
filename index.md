@@ -12,8 +12,8 @@ Department of Electronic and Computer Engineering (ECE)
 The Hong Kong University of Science and Technology (HKUST) 
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in Coummunication engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in Department of Information and Coummunication Engineering from Ningbo University,
-Ningbo, China, in 2018. He received the Ph.D. degree in School of Informatics from Xiamen University, Xiamen, China, in 2022. Currently, he is a Postdoc. Fellow in Department of ECE at HKUST.
+*Jingwen Tong* received his B.E. degree in the Department of Communication Engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in the Department of Information and Communication Engineering from Ningbo University,
+Ningbo, China, in 2018. He received his Ph.D. degree in the School of Informatics from Xiamen University, Xiamen, China, in 2022. Currently, he is a Postdoc. Fellow in the Department of ECE at HKUST.
 His main research interests include multi-armed bandit (MAB), wireless communications, resource allocation, optimization, and game theory.
 
 
@@ -25,8 +25,8 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 * 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
 * 2018.09-2022.06, Ph.D. Degree, School of Informatics, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 * 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
-* 2015.09-2018.06, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-* 2011.09-2015.06, B.E. Degree, Coummunication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
+* 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
+* 2011.09-2015.06, B.E. Degree, Communication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
 
 ---
 ### What's News
@@ -35,6 +35,7 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted to possible journal publication.
 - [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted to possible journal publication.
 - [09/2022] We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
+- [09/2022] I established a new homepage powered by *Github Page* based on the theme of [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
 - [06/2022] I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. 
 - [03/2022] I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
 
