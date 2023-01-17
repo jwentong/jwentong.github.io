@@ -13,7 +13,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify}
 *Jingwen Tong* received the B.E. degree in Coummunication engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. degree in Department of Information and Coummunication Engineering from Ningbo University,
-Ningbo, China, in 2018. He received the Ph.D. degree in Department of Information and Coummunication Engineering from Xiamen University, Xiamen, China, in 2022. Currently, he is a Postdoc. Fellow in Department of ECE at HKUST.
+Ningbo, China, in 2018. He received the Ph.D. degree in School of Informatics from Xiamen University, Xiamen, China, in 2022. Currently, he is a Postdoc. Fellow in Department of ECE at HKUST.
 His main research interests include multi-armed bandit (MAB), wireless communications, resource allocation, optimization, and game theory.
 
 
@@ -23,7 +23,7 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 
 {: .text-justify}
 * 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
-* 2018.09-2022.06, Ph.D. Degree, Department of Information and Coummunication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
+* 2018.09-2022.06, Ph.D. Degree, School of Informatics, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 * 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
 * 2015.09-2018.06, M.Phil. Degree, Department of Information and Coummunication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
 * 2011.09-2015.06, B.E. Degree, Coummunication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
@@ -32,7 +32,8 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 ### What's News
 
 {: .text-justify}
-- [10/2022] A paper titled *online resource allocation for user experience improvement in mobile edge clouds* has been submitted to possible journal publication.
+- [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted to possible journal publication.
+- [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted to possible journal publication.
 - [09/2022] We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
 - [06/2022] I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. 
 - [03/2022] I received the Postdoctoral Fellow in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
@@ -59,13 +60,13 @@ His main research interests include multi-armed bandit (MAB), wireless communica
 **Patent:**
 
 {: .text-justify} 
-* 岳蕾,赖舒悦,童景文,付立群. 一种提升水声通信链路平均吞吐量的方法[P]. 福建省：CN111431628B,2021-07-06.
-* 付立群,童景文,岳蕾. 一种利用MAB提升全双工CSMA网络吞吐量的方法[P]. 福建省：CN110233762B,2021-03-09.
-* 童景文,金明,姚俊腾. 针对时间同步且不存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107196720B,2020-08-14.
-* 姚俊腾,金明,童景文. 针对时间同步且存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107465473B,2020-07-03.
-* 童景文,金明. 一种基于软融合策略的盲协作频谱感知方法[P]. 浙江省：CN107770778B,2020-01-21.
-* 付彩梅,李有明,童景文,余明宸,周桂莉. 一种基于比特交换的多用户电力线通信系统资源分配方法[P]. 浙江省：CN105656612B,2018-06-26.
-* 童景文,金明. 一种基于贝叶斯准则和能量检测法的频谱感知方法[P]. 浙江：CN106788817A,2017-05-31.
+* 岳蕾, 赖舒悦, 童景文, 付立群. 一种提升水声通信链路平均吞吐量的方法[P]. 福建省：CN111431628B,2021-07-06.
+* 付立群, 童景文, 岳蕾. 一种利用MAB提升全双工CSMA网络吞吐量的方法[P]. 福建省：CN110233762B,2021-03-09.
+* 童景文, 金明, 姚俊腾. 针对时间同步且不存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107196720B,2020-08-14.
+* 姚俊腾, 金明, 童景文. 针对时间同步且存在频偏情况下的OFDM信号频谱感知方法[P]. 浙江省：CN107465473B,2020-07-03.
+* 童景文, 金明. 一种基于软融合策略的盲协作频谱感知方法[P]. 浙江省：CN107770778B,2020-01-21.
+* 付彩梅, 李有明, 童景文, 余明宸, 周桂莉. 一种基于比特交换的多用户电力线通信系统资源分配方法[P]. 浙江省：CN105656612B,2018-06-26.
+* 童景文, 金明. 一种基于贝叶斯准则和能量检测法的频谱感知方法[P]. 浙江：CN106788817A,2017-05-31.
 
 
 
