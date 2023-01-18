@@ -9,7 +9,7 @@ permalink: /mab/
 *Multi-Armed Bandit (MAB)* is a basic framework for the sequential decisionmaking problem, where a decision-maker (or player) must select an arm from a set of arms with unknown distribution at each time round. After that, the player will observe a reward from the environment. According to the rewarding process,
 MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian MABs, and Contextual MABs.
 
-![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_01.jpg)
+   ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
 
 ### Theoretical Parts
 
