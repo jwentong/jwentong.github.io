@@ -13,7 +13,7 @@ MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian
 
 ### Theoretical Parts
 
-#### > Stochatic MABs
+####  1. Stochatic MABs
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
@@ -29,7 +29,7 @@ MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian
 * Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
 
 
-#### > Adversarial MABs
+#### 2. Adversarial MABs
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
@@ -45,7 +45,7 @@ MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian
 * Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
 
 
-#### > Markovian MABs
+#### 3. Markovian MABs
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
@@ -60,7 +60,7 @@ MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian
 * Journal of Communications and Information Networks
 * Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
 
-#### > Contextual MABs
+#### 4. Contextual MABs
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
@@ -80,12 +80,12 @@ MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian
 
 ### Application Parts
 
-#### > MAB in Wireless Communications
+#### 1. MAB in Wireless Communications
 {: .text-justify}
 * IEEE/CIC International Conference on Communications in China (ICCC), 2021
 
 
-#### > MAB in recommend Systems
+#### 2. MAB in recommend Systems
 {: .text-justify}
 * Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
 
