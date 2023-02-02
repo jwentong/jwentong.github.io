@@ -5,7 +5,7 @@ title: Service
 permalink: /service/
 ---
 
-**Review for**
+**Reviewer for**
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
