@@ -14,11 +14,12 @@ permalink: /honor/
 * IEEE ComSoc Student Travel Grant for IEEE ICC，2020 
 * The Chinese Government Scholarship for study abroad, 2019
 * Outstanding Graduate from Ningbo University, 2018
-* Ningbo Graduate Academic Festival, the Gold Award, 2017 
-* National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2016 and 2017 
+* Graduate Academic Festival in Ningbo, the Gold Award, 2017 
+* National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2017 
+* National Post-Graduate Mathematical Contest in Modeling, Second Prize, 2016 
 * Outstanding Graduate from China Jiliang University, 2015
 * National Inspirational Scholarship, ranked 2/80, 2013 
-* National Undergraduate Electronic Design Competition, Second Prize，The Texas Instruments Cup, 2013 
+* National Undergraduate Electronic Design Competition, Second Prize, 2013 
 
 
 
