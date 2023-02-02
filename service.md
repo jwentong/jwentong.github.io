@@ -5,7 +5,7 @@ title: Service
 permalink: /service/
 ---
 
-**Reviewer for**
+**Review for**
 
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
@@ -27,7 +27,7 @@ permalink: /service/
 {: .text-justify}
 * IEEE/CIC International Conference on Communications in China (ICCC), 2021
 
-**Workshop Organization**
+**Workshop Organizer**
 
 {: .text-justify}
 * Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
