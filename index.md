@@ -32,6 +32,7 @@ His main research interests include multi-armed bandit (MAB), resource allocatio
 ### What's News
 
 {: .text-justify}
+- [02/2023] One of our paper titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted to possible journal publication.
 - [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted to possible journal publication.
 - [09/2022] We successfully held a conference workshop with Huawei in Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
@@ -45,6 +46,7 @@ His main research interests include multi-armed bandit (MAB), resource allocatio
 **Journal:**
 
 {: .text-justify} 
+*   J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications, Accpeted.
 *   J. Tong, L. Fu and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
 *   J. Tong, H. Zhang, L. Fu, A. Leshem and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/MPMAB_RIS_TwoColumn.pdf)
 *   J. Tong, L. Fu and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug.1, 2021, doi: 10.1109/JIOT.2021.3068182. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
