@@ -47,7 +47,7 @@ A useful generalization of the multi-armed bandit is the contextual multi-armed 
 * IEEE/CIC International Conference on Communications in China (ICCC), 2021
 
 
-#### 2. MAB in recommend Systems
+#### 2. MAB in Recommend Systems
 {: .text-justify}
 * Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
 
