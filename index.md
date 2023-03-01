@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-**Postdoctoral Fellow**
+**Post-Doctoral Fellow**
 
 {: .text-justify} 
 Department of Electronic and Computer Engineering (ECE) 
@@ -12,7 +12,7 @@ Department of Electronic and Computer Engineering (ECE)
 The Hong Kong University of Science and Technology (HKUST) 
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. Degree in Electrical Engineering from China Jiliang University, Hangzhou, China, in 2015, and the M.S. Degree in Electrical Engineering from the Ningbo University, Ningbo, China, in 2018. He received the Ph.D. Degree in the School of Informatics from the Xiamen University, Xiamen, China.  From 2019 to 2020, he was also a visiting Ph.D. student in the University of Houston, Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) in The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, game theory, and resource allocation in wireless communications. [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf)
+*Jingwen Tong* received the B.E. degree in electrical engineering from China Jiliang University, Hangzhou, China, in 2015, the M.S. degree in electrical engineering from Ningbo University, Ningbo, China, in 2018, and the Ph.D. degree from the School of Informatics, Xiamen University, Xiamen, China. From 2019 to 2020, he was a Visiting Ph.D. Student with the University of Houston, Houston, USA. Currently, he is a Post-Doctoral Fellow with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, game theory, and  resource allocation in wireless communications. [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf)
 
 
 ---
