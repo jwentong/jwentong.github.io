@@ -24,20 +24,46 @@ In the problem, each machine provides a random reward from a probability distrib
 #### 2. Adversarial MABs
 
 {: .text-justify}
-Another variant of the multi-armed bandit problem is called the adversarial bandit, first introduced by Auer and Cesa-Bianchi (1998). In this variant, at each iteration, an agent chooses an arm and an adversary simultaneously chooses the payoff structure for each arm. This is one of the strongest generalizations of the bandit problem[53] as it removes all assumptions of the distribution and a solution to the adversarial bandit problem is a generalized solution to the more specific bandit problems.
+The adversarial multi-armed bandit (MAB) is a variation of the classic MAB problem in which an adversary controls the reward distributions for each arm and can change them arbitrarily over time. In other words, the adversary has full control over the rewards that the decision maker receives at each time step, and their goal is to minimize the total expected reward of the decision maker.
+
+{: .text-justify}
+The adversarial MAB problem is a worst-case scenario where the decision maker cannot make any assumptions about the reward distributions and must adaptively respond to the actions of the adversary. This problem arises in many real-world applications, such as online advertising, where the adversary may manipulate the user's preferences or behavior to reduce the effectiveness of the advertising.
+
+{: .text-justify}
+There are various algorithms and strategies that have been developed to solve the adversarial MAB problem, including the EXP3 (exponential weighting for exploration and exploitation) algorithm, which uses a randomized exploration strategy to avoid exploitation of arms with low rewards, and the follow-the-leader algorithm, which chooses the arm with the highest observed reward in the past.
+
+{: .text-justify}
+The adversarial MAB problem is more challenging than the classic MAB problem because it requires the decision maker to adaptively respond to the actions of an intelligent adversary who is actively trying to manipulate the decision maker's choices. However, it is also more relevant to real-world applications where the decision maker may face strategic opponents who are trying to exploit or deceive them.
 
 
 #### 3. Markovian MABs
 
 {: .text-justify}
-Markov MAB problems differ from the stochastic MAB problem discussed in that the reward process of an arm is not IID, instead, follows a Markov process. Furthermore, the evolution of the Markov processes may depend on the player’s decision whether an arm is chosen or not.
-In rested Markov MAB problems, the state of an arm changes according to Pi if and only if it is played and remains frozen otherwise. Rested Markov MAB can be used to model job scheduling problems in a single server system. The scheduler needs to decide among K jobs, which one to allocate computing resources to at each time interval. The states of the jobs not scheduled remain unchanged. In contrast, in restless Markov MAB problems, the state of each arm changes regardless of the user’s actions. One application of restless Markov MAB is spectrum sensing and access in cognitive radio networks, which will be discussed in detail in Chap.5.In spectrum sensing and access, the reward of each arm (channel) is a function of the channel occupancy, which may evolve according to a Markov process independent of the user’s action.
+The Markovian multi-armed bandit (MAB) is a variation of the classic MAB problem where the reward distributions for each arm depend on the state of a Markov decision process (MDP). In an MDP, the state of the system evolves over time according to a set of probabilistic transition rules, and the decision maker's actions can influence the transition probabilities and the rewards received at each time step.
+
+{: .text-justify}
+In the Markovian MAB problem, the decision maker must learn a policy that maps each state to the best arm to pull at each time step, in order to maximize the total expected reward over a sequence of pulls. This problem arises in many real-world applications, such as resource allocation in wireless communication networks, where the decision maker must adaptively allocate resources to different users based on their channel conditions, which can vary over time.
+
+{: .text-justify}
+There are various algorithms and strategies that have been developed to solve the Markovian MAB problem, including the MDP-based bandit algorithm, which uses a model of the MDP to estimate the expected rewards for each arm in each state, and the Q-learning algorithm, which learns a Q-function that represents the expected total reward for each state-action pair.
+
+{: .text-justify}
+The Markovian MAB problem is more complex than the classic MAB problem because it requires the decision maker to reason about the dynamics of the system and how their actions can influence the future states and rewards. However, it is also more powerful because it allows the decision maker to take advantage of the temporal structure of the system to improve their decision-making performance.
 
 
 #### 4. Contextual MABs
 
 {: .text-justify}
-A useful generalization of the multi-armed bandit is the contextual multi-armed bandit. At each iteration an agent still has to choose between arms, but they also see a d-dimensional feature vector, the context vector they can use together with the rewards of the arms played in the past to make the choice of the arm to play. Over time, the learner's aim is to collect enough information about how the context vectors and rewards relate to each other, so that it can predict the next best arm to play by looking at the feature vectors.
+The contextual multi-armed bandit (MAB) is an extension of the classic MAB problem in which each arm is associated with a context or set of features that can provide additional information to the decision maker. In other words, the reward distribution for each arm is dependent on the context or features associated with that arm.
+
+{: .text-justify}
+The goal of the contextual MAB problem is to learn a policy that maps each context to the best arm to pull at each time step, in order to maximize the total expected reward over a sequence of pulls. This problem arises in many real-world applications, such as online advertising, personalized medicine, and recommendation systems, where the decision maker has access to contextual information about the user or environment.
+
+{: .text-justify}
+There are various algorithms and strategies that have been developed to solve the contextual MAB problem, including the contextual bandit algorithm, which uses a model of the reward distribution for each arm conditioned on the context, and the contextual Thompson sampling algorithm, which extends the classic Thompson sampling algorithm to incorporate contextual information.
+
+{: .text-justify}
+The contextual MAB problem is more challenging than the classic MAB problem because it requires the decision maker to learn a policy that can effectively use the contextual information to make informed decisions about which arm to pull at each time step. However, it is also more powerful because it allows the decision maker to take advantage of additional information to improve their decision-making performance.
 
 
 ---
