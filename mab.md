@@ -8,6 +8,7 @@ permalink: /mab/
 {: .text-justify}
 *Multi-Armed Bandit (MAB)* is a basic framework for the sequential decisionmaking problem, where a decision-maker (or player) must select an arm from a set of arms with unknown distribution at each time round. After that, the player will observe a reward from the environment. According to the rewarding process,
 MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian MABs, and Contextual MABs. 
+MAB problem has been studied by numerous researchers from diverse backgrounds including computer science, mathematics, and statistics. Some of the notable researchers who have made significant contributions to the field include Richard Sutton, Peter Auer, John Langford, Sébastien Bubeck, Lihong Li, Csaba Szepesvári, Tor Lattimore, Daniel Russo, Emma Brunskill, Olivier Cappé, Alex Slivkins, Nicolò Cesa-Bianchi, Rémi Munos, Gabor Lugosi, Andreas Krause, Shipra Agrawal, Mohammad Ghavamzadeh, Yevgeny Seldin, Sébastien Gerchinovitz, and Masrour Zoghi. Their work has led to the development of theoretical foundations, algorithms, and applications of the multi-armed bandit problem, making it an active and growing area of research.
 
    ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
    
