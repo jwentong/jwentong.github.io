@@ -10,7 +10,7 @@ permalink: /honor/
 {: .text-justify}
 * Excellent doctoral dissertation in Xiamen University, 2022 
 * Outstanding Graduate from Xiamen University, 2022
-* Wande (万得) scholarship in Xiamen Univeristy, 2022
+* Wande scholarship in Xiamen Univeristy, 2022
 * IEEE ComSoc Student Travel Grant for IEEE ICC，2020 
 * The Chinese Government Scholarship for study abroad, 2019
 * Outstanding Graduate from Ningbo University, 2018
