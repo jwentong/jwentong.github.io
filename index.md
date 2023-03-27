@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
+- [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
 - [02/2023] One of our paper titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted to possible journal publication.
 - [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted to possible journal publication.
