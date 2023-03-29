@@ -31,3 +31,7 @@ permalink: /service/
 
 {: .text-justify}
 * Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
+
+**Technical Program Committee**
+{: .text-justify}
+* IEEE Global Telecommunications Conference (Globecom), 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
