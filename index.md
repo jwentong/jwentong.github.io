@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
+- [04/2023] I received the Reviewer Certificate from the IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
 - [02/2023] One of our paper titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted to possible journal publication.
