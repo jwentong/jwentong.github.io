@@ -27,10 +27,11 @@ permalink: /service/
 {: .text-justify}
 * IEEE/CIC International Conference on Communications in China (ICCC), 2021
 
-**Workshop Organizer**
+**Conference Organizer**
 
 {: .text-justify}
-* Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
+* Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, Sept. 15-16, 2022
+* Hong Kong 6G Wireless Summit, Sept. 13-14, 2023
 
 **Technical Program Committee**
 {: .text-justify}
