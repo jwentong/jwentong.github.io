@@ -14,6 +14,8 @@ permalink: /service/
 * IEEE Transaction on Cognitive Communications and Networking 
 * IEEE Communications Magazine  
 * IEEE Transactions on Mobile Computing 
+* IEEE Transactions on Machine Learning in Communications and Networks
+* IEEE Internet of Things Journal
 * IEEE Journal on Selected Areas in Communications  
 * IEEE Communications Letters 
 * IEEE Wireless Communications Letters 
