@@ -33,7 +33,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [05/2023] A paper titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been submitted to possible journal publication.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
-- [03/2023] We published a WeChat public account article about ChatGPT meets Wireless (ChatGPT碰撞6G). [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
+- [03/2023] We published an article in WeChat public account about ChatGPT meets Wireless (ChatGPT碰撞6G). [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
 - [02/2023] A paper titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted for possible journal publication.
 - [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted for possible journal publication.
