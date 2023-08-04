@@ -30,7 +30,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify}
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
-- [06/2023] We are going to hold a 6G wireless summit in Hong Kong on Sept. 13-14 titled "[Hong Kong 6G Wireless Summit](https://6g-hk-wireless-summit-dev.hkust.edu.hk/)". Welcome! 
+- [06/2023] We are going to hold a 6G wireless summit in Hong Kong on Sept. 13-14 titled "[Hong Kong 6G Wireless Summit](https://hk6gws2023.ieee-hk6gws.org/)". Welcome! 
 - [05/2023] A paper titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been submitted to possible journal publication.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
