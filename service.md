@@ -10,12 +10,14 @@ permalink: /service/
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
 * IEEE Transaction on Communications
+* * IEEE Transaction on Networking
 * IEEE Transaction on Vehicular Technology 
 * IEEE Transaction on Cognitive Communications and Networking 
 * IEEE Communications Magazine  
 * IEEE Transactions on Mobile Computing 
 * IEEE Transactions on Machine Learning in Communications and Networks
 * IEEE Internet of Things Journal
+* IEEE Internet of Things Magazine
 * IEEE Journal on Selected Areas in Communications  
 * IEEE Communications Letters 
 * IEEE Wireless Communications Letters 
@@ -32,7 +34,7 @@ permalink: /service/
 **Conference Organizer**
 
 {: .text-justify}
-* Hong Kong 6G Wireless Summit, Sept. 13-14, 2023
+* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, 2023
 * Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, 2022
 
 **Technical Program Committee**
