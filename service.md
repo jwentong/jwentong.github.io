@@ -10,7 +10,7 @@ permalink: /service/
 {: .text-justify}
 * IEEE Transaction on Wireless Communications
 * IEEE Transaction on Communications
-* * IEEE Transaction on Networking
+* IEEE Transaction on Networking
 * IEEE Transaction on Vehicular Technology 
 * IEEE Transaction on Cognitive Communications and Networking 
 * IEEE Communications Magazine  
