@@ -11,12 +11,12 @@ Department of Electronic and Computer Engineering (ECE)
 {: .text-justify}
 The Hong Kong University of Science and Technology (HKUST) 
 
-{: .text-justify}
-*Jingwen Tong* received the B.E. degree in electrical engineering from China Jiliang University, Hangzhou, China, in 2015, the M.S. degree in electrical engineering from Ningbo University, Ningbo, China, in 2018, and the Ph.D. degree from the Department of Informatics and Communication Engineering, Xiamen University, Xiamen, China. From 2019 to 2020, he was a Visiting Ph.D. Student with the University of Houston, Houston, USA. Currently, he is a Post-Doctoral Fellow with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, game theory, and  resource allocation in wireless communications. [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf)
-
 
 ---
 ### Biography
+
+{: .text-justify}
+*Jingwen Tong* received the B.E. degree in electrical engineering from China Jiliang University, Hangzhou, China, in 2015, the M.S. degree in electrical engineering from Ningbo University, Ningbo, China, in 2018, and the Ph.D. degree from the Department of Informatics and Communication Engineering, Xiamen University, Xiamen, China. From 2019 to 2020, he was a Visiting Ph.D. Student with the University of Houston, Houston, USA. Currently, he is a Post-Doctoral Fellow with the Department of Electronic and Computer Engineering (ECE), The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, game theory, and  resource allocation in wireless communications. [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf)
 
 {: .text-justify}
 * 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
