@@ -29,7 +29,8 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
-- [01/2024] I am in the 2024 job market!
+- [--/2024] I am in the 2024 job market!
+- [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] A paper titled "*Federated Online Restless Bandits: A Thompson Sampling-Enabled Whittle Index Algorithm*" has been submitted for possible journal publication.
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
@@ -37,7 +38,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [05/2023] A paper titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been submitted to possible journal publication.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
-- [03/2023] We published an article in WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
+- [03/2023] We published an article in the WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
 - [02/2023] One of our papers titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted for possible journal publication.
 - [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted for possible journal publication.
