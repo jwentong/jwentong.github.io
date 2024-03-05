@@ -29,7 +29,6 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
-- [--/2024] I am in the 2024 job market!
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] A paper titled "*Federated Online Restless Bandits: A Thompson Sampling-Enabled Whittle Index Algorithm*" has been submitted for possible journal publication.
