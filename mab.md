@@ -97,9 +97,10 @@ and the wireless research community can benefit from a comprehensive and timely
 treatment of these topics.
 
 
-#### 2. MAB in Recommend Systems
+#### New works related to MAB
 {: .text-justify}
-* Huawei-HKUST Joint Workshop on Theory for Futrue Wireless, 2022
+* We collected some new published paper in the following link.
+  Please ![see](https://abrasive-aletopelta-824.notion.site/Bandit-Paper-From-Recommended-Scholar-c8ca9a7cf3ef4ec1b4b740cd49129165)
 
 
 
