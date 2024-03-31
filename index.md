@@ -31,6 +31,8 @@ The Hong Kong University of Science and Technology (HKUST)
 {: .text-justify}
 - [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing.
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
+- [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
+- [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] A paper titled "*Federated Online Restless Bandits: A Thompson Sampling-Enabled Whittle Index Algorithm*" has been submitted for possible journal publication.
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
