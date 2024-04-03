@@ -55,6 +55,7 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
+*   J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing (Early Access). 10.1109/TMC.2024.3383038.
 *   J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications. DoI: 10.1109/TWC.2023.3247450.
 *   J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
 *   J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/MPMAB_RIS_TwoColumn.pdf)
