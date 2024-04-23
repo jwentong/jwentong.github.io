@@ -34,9 +34,13 @@ permalink: /service/
 **Conference Organizer**
 
 {: .text-justify}
+* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, 2023
 * IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, 2023
 * Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, 2022
 
 **Technical Program Committee**
 {: .text-justify}
+* IEEE Global Telecommunications Conference (Globecom), 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
 * IEEE Global Telecommunications Conference (Globecom), 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
+* IEEE International Conference on Communications (ICC), 2024, (WS06: Task-Oriented and Generative Communications for 6G)
+* IEEE Wireless Communications and Networking Conference (WCNC), 2024, (WS-15: Model-Driven Deep Learning for 6G)
