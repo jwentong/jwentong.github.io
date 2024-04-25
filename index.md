@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
+- [02/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
 - [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing.
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
 - [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
