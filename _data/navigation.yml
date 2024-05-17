@@ -6,8 +6,8 @@ main:
     url: /service/ 
   - title: "Honor"
     url: /honor/ 
-#  - title: "MAB"
- #   url: /mab/ 
+  - title: "MAB"
+    url: /mab/ 
   - title: "Google Scholar"
     url: https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-CN
 
