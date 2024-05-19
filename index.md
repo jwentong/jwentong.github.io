@@ -19,11 +19,11 @@ The Hong Kong University of Science and Technology (HKUST)
 *Jingwen Tong* received the B.E. Degree in Electrical Engineering from China Jiliang University, China, in 2015, and the M.S. Degree in Electrical Engineering from Ningbo University, Ningbo, China, in 2018. He received the Ph.D. Degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit, optimization, and resource allocation in wireless communications. Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
 
 {: .text-justify}
-* 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
-* 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, [University of Houston](https://uh.edu/). Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
-* 2018.09-2022.06, Ph.D. Degree, Department of Informatics and Communication Engineering, [Xiamen University](https://en.xmu.edu.cn/). Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
-* 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, [Ningbo University](http://iso.nbu.edu.cn/). Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-* 2011.09-2015.06, B.E. Degree, Communication Engineering, [China Jiliang University](https://english.cjlu.edu.cn/).
+* 2022.08-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
+* 2019.10-2020.11, Visiting Ph.D., Department of Electrical and Computer Engineering, University of Houston. Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
+* 2018.09-2022.06, Ph.D. Degree, Department of Informatics and Communication Engineering, Xiamen University. Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
+* 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, Ningbo University. Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
+* 2011.09-2015.06, B.E. Degree, Communication Engineering, China Jiliang University.
 
 ---
 ### What's News
@@ -57,7 +57,8 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
-*   J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing (Early Access). 10.1109/TMC.2024.3383038.
+*   L. Fu, J. Tong, T. Lin, and J. Zhang  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications (Early Access).
+*   J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing. 10.1109/TMC.2024.3383038.
 *   J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications. DoI: 10.1109/TWC.2023.3247450.
 *   J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
 *   J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/MPMAB_RIS_TwoColumn.pdf)
