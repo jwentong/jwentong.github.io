@@ -6,9 +6,9 @@ permalink: /mab/
 ---
 
 {: .text-justify}
-*Multi-Armed Bandit (MAB)* is a basic framework for the sequential decisionmaking problem, where a decision-maker (or player) must select an arm from a set of arms with unknown distribution at each time round. After that, the player will observe a reward from the environment. According to the rewarding process,
+*Multi-Armed Bandit (MAB)* is a basic framework for the sequential decision-making problem, where a decision-maker (or player) must select an arm from a set of arms with unknown distribution at each time round. After that, the player will observe a reward from the environment. According to the reward process,
 MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian MABs, and Contextual MABs. 
-MAB problem has been studied by numerous researchers from diverse backgrounds including computer science, mathematics, and statistics. Some of the notable researchers who have made significant contributions to the field include Richard Sutton, Peter Auer, John Langford, Sébastien Bubeck, Lihong Li, Csaba Szepesvári, Tor Lattimore, Daniel Russo, Emma Brunskill, Olivier Cappé, Alex Slivkins, Nicolò Cesa-Bianchi, Rémi Munos, Gabor Lugosi, Andreas Krause, Shipra Agrawal, Mohammad Ghavamzadeh, Yevgeny Seldin, Sébastien Gerchinovitz, and Masrour Zoghi. Their work has led to the development of theoretical foundations, algorithms, and applications of the multi-armed bandit problem, making it an active and growing area of research.
+MAB problem has been studied by numerous researchers from diverse backgrounds, including computer science, mathematics, and statistics. Some of the notable researchers who have made significant contributions to the field include Richard Sutton, Peter Auer, John Langford, Sébastien Bubeck, Lihong Li, Csaba Szepesvári, Tor Lattimore, Daniel Russo, Emma Brunskill, Olivier Cappé, Alex Slivkins, Nicolò Cesa-Bianchi, Rémi Munos, Gabor Lugosi, Andreas Krause, Shipra Agrawal, Mohammad Ghavamzadeh, Yevgeny Seldin, Sébastien Gerchinovitz, and Masrour Zoghi. Their work has led to the development of theoretical foundations, algorithms, and applications of the multi-armed bandit problem, making it an active and growing area of research.
 
    ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
    
@@ -19,13 +19,13 @@ MAB problem has been studied by numerous researchers from diverse backgrounds in
 ####  1. Stochatic MABs
 
 {: .text-justify}
-In the problem, each machine provides a random reward from a probability distribution specific to that machine, that is not known a-priori. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls. The crucial tradeoff the gambler faces at each trial is between "exploitation" of the machine that has the highest expected payoff and "exploration" to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in machine learning. In practice, multi-armed bandits have been used to model problems such as managing research projects in a large organization, like a science foundation or a pharmaceutical company. In early versions of the problem, the gambler begins with no initial knowledge about the machines.
+In the problem, each machine provides a random reward from a probability distribution specific to that machine that is not known a-priori. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls. The crucial tradeoff the gambler faces at each trial is between "exploitation" of the machine that has the highest expected payoff and "exploration" to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in machine learning. In practice, multi-armed bandits have been used to model problems such as managing research projects in a large organization, like a science foundation or a pharmaceutical company. In early versions of the problem, the gambler begins with no initial knowledge about the machines.
 
 
 #### 2. Adversarial MABs
 
 {: .text-justify}
-The adversarial multi-armed bandit (MAB) is a variation of the classic MAB problem in which an adversary controls the reward distributions for each arm and can change them arbitrarily over time. In other words, the adversary has full control over the rewards that the decision maker receives at each time step, and their goal is to minimize the total expected reward of the decision maker.
+The adversarial multi-armed bandit (MAB) is a variation of the classic MAB problem in which an adversary controls the reward distributions for each arm and can change them arbitrarily over time. In other words, the adversary has full control over the rewards that the decision-maker receives at each time step, and their goal is to minimize the total expected reward of the decision-maker.
 
 {: .text-justify}
 The adversarial MAB problem is a worst-case scenario where the decision maker cannot make any assumptions about the reward distributions and must adaptively respond to the actions of the adversary. This problem arises in many real-world applications, such as online advertising, where the adversary may manipulate the user's preferences or behavior to reduce the effectiveness of the advertising.
