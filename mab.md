@@ -12,9 +12,9 @@ permalink: /mab/
 - Recommender Systems: Optimizing content recommendations based on user preferences.
 - Clinical Trials: Determining the most effective treatment for a disease.
 - Online Advertising: Optimizing ad placements to maximize click-through rates.
-- MAB problems can be categorized based on the nature of the reward process:
 
-Stochastic MABs: The reward distribution for each arm is stationary and independent over time.
+MAB problems can be categorized based on the nature of the reward process:
+- Stochastic MABs: The reward distribution for each arm is stationary and independent over time.
 - Adversarial MABs: The rewards are chosen by an adversary, potentially aiming to mislead the player.
 - Markovian MABs: The reward distribution depends on the history of past arm selections.
 - Contextual MABs: The player receives contextual information at each time step, which can influence the reward distribution.
