@@ -34,7 +34,7 @@ permalink: /service/
 **Conference Organizer**
 
 {: .text-justify}
-* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, 2023
+* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, 2024
 * IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, 2023
 * Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, 2022
 
