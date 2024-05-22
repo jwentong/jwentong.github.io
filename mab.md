@@ -6,9 +6,35 @@ permalink: /mab/
 ---
 
 {: .text-justify}
-*Multi-Armed Bandit (MAB)* is a basic framework for the sequential decision-making problem, where a decision-maker (or player) must select an arm from a set of arms with unknown distribution at each time round. After that, the player will observe a reward from the environment. According to the reward process,
-MABs can be roughly classified into stochastic MABs, adversarial MABs, Markovian MABs, and Contextual MABs. 
-MAB problem has been studied by numerous researchers from diverse backgrounds, including computer science, mathematics, and statistics. Some of the notable researchers who have made significant contributions to the field include Richard Sutton, Peter Auer, John Langford, Sébastien Bubeck, Lihong Li, Csaba Szepesvári, Tor Lattimore, Daniel Russo, Emma Brunskill, Olivier Cappé, Alex Slivkins, Nicolò Cesa-Bianchi, Rémi Munos, Gabor Lugosi, Andreas Krause, Shipra Agrawal, Mohammad Ghavamzadeh, Yevgeny Seldin, Sébastien Gerchinovitz, and Masrour Zoghi. Their work has led to the development of theoretical foundations, algorithms, and applications of the multi-armed bandit problem, making it an active and growing area of research.
+* Multi-Armed Bandit (MAB)* problem is a fundamental framework for sequential decision-making. In this setting, a decision-maker (or player) faces a set of "arms," each with an unknown reward distribution. At each time step, the player must choose an arm to pull, receiving a reward drawn from that arm's distribution. The goal is to maximize the cumulative reward over time.
+
+MABs are a versatile tool with applications in various fields, including:
+
+Recommender Systems: Optimizing content recommendations based on user preferences.
+Clinical Trials: Determining the most effective treatment for a disease.
+Online Advertising: Optimizing ad placements to maximize click-through rates.
+MAB problems can be categorized based on the nature of the reward process:
+
+Stochastic MABs: The reward distribution for each arm is stationary and independent over time.
+Adversarial MABs: The rewards are chosen by an adversary, potentially aiming to mislead the player.
+Markovian MABs: The reward distribution depends on the history of past arm selections.
+Contextual MABs: The player receives contextual information at each time step, which can influence the reward distribution.
+The MAB problem has attracted significant attention from researchers in various fields, including computer science, mathematics, and statistics. Notable pioneers in the field include:
+
+Richard Sutton: Known for his work on reinforcement learning, which has strong connections to MABs.
+Peter Auer: A leading researcher in the development of algorithms for stochastic MABs.
+John Langford: Known for his contributions to contextual MABs and online learning.
+Sébastien Bubeck: A prominent researcher in the theoretical analysis of MAB algorithms.
+Lihong Li: Known for his work on bandit algorithms for large-scale applications.
+These researchers, along with many others, have contributed to the development of theoretical foundations, algorithms, and applications of MABs. This has made the field an active and growing area of research with ongoing advancements in both theory and practice.
+
+Improvements:
+
+Clearer Introduction: The introduction now provides a concise overview of the MAB problem and its goal.
+Applications: The text now highlights the diverse applications of MABs, making the problem more relatable.
+Categorization: The categorization of MAB problems is more explicit and easier to understand.
+Notable Researchers: The list of researchers is more concise and focuses on key figures in the field.
+Conclusion: The conclusion emphasizes the ongoing research and development in the field of MABs.
 
    ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
    
