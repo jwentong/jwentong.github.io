@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's News
 
 {: .text-justify}
+- [05/2024] A paper titled "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*" has been submitted for possible journal publication.
 - [05/2024] One of our papers titled "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*" has been accepted by the IEEE Transactions on Wireless Communications.
 - [04/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
 - [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing.
@@ -57,8 +58,9 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
-1.  L. Fu, J. Tong, T. Lin, and J. Zhang  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications. doi: 10.1109/TWC.2024.3403996.
-1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing. doi: 10.1109/TMC.2024.3383038.
+1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelssLLM: Empowering Large Language Models Towards Wireless Intelligence" in arXiv preprint arXiv:2405.17053, 2024.
+1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications. doi: 10.1109/TWC.2024.3403996.
+1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing. doi: 10.1109/TMC.2024.3383038.
 1.  J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications. doi: 10.1109/TWC.2023.3247450.
 1.  J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
 1.  J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/MPMAB_RIS_TwoColumn.pdf)
