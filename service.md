@@ -5,27 +5,6 @@ title: Service
 permalink: /service/
 ---
 
-**Reviewer for**
-
-{: .text-justify}
-* IEEE Transaction on Wireless Communications
-* IEEE Transaction on Communications
-* IEEE Transaction on Networking
-* IEEE Transaction on Vehicular Technology 
-* IEEE Transaction on Cognitive Communications and Networking 
-* IEEE Communications Magazine  
-* IEEE Transactions on Mobile Computing 
-* IEEE Transactions on Machine Learning in Communications and Networks
-* IEEE Internet of Things Journal
-* IEEE Internet of Things Magazine
-* IEEE Journal on Selected Areas in Communications  
-* IEEE Communications Letters 
-* IEEE Wireless Communications Letters 
-* Journal of Communications and Information Networks
-* Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
-
----
-
 **Session Chair**
 
 {: .text-justify}
@@ -44,3 +23,23 @@ permalink: /service/
 * IEEE Global Telecommunications Conference (Globecom), 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
 * IEEE International Conference on Communications (ICC), 2024, (WS06: Task-Oriented and Generative Communications for 6G)
 * IEEE Wireless Communications and Networking Conference (WCNC), 2024, (WS-15: Model-Driven Deep Learning for 6G)
+
+---
+**Reviewer for**
+
+{: .text-justify}
+* IEEE Transaction on Wireless Communications
+* IEEE Transaction on Communications
+* IEEE Transaction on Networking
+* IEEE Transaction on Vehicular Technology 
+* IEEE Transaction on Cognitive Communications and Networking 
+* IEEE Communications Magazine  
+* IEEE Transactions on Mobile Computing 
+* IEEE Transactions on Machine Learning in Communications and Networks
+* IEEE Internet of Things Journal
+* IEEE Internet of Things Magazine
+* IEEE Journal on Selected Areas in Communications  
+* IEEE Communications Letters 
+* IEEE Wireless Communications Letters 
+* Journal of Communications and Information Networks
+* Conferences ICC, VTC, WCNC, GLOBECOM, INFOCOM
