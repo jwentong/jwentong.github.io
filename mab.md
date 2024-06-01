@@ -116,10 +116,8 @@ treatment of these topics.
 #### Study Materials for MAB
 {: .text-justify}
 * Regret analysis of stochastic and nonstochastic multi-armed bandit problems
-  Please ![see](https://abrasive-aletopelta-824.notion.site/Bandit-Paper-From-Recommended-Scholar-c8ca9a7cf3ef4ec1b4b740cd49129165)
   
 * Introduction to multi-armed bandits
-  Please ![see](https://abrasive-aletopelta-824.notion.site/Bandit-Paper-From-Recommended-Scholar-c8ca9a7cf3ef4ec1b4b740cd49129165)
 
 
 
