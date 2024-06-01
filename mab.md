@@ -25,6 +25,7 @@ The MAB problem has attracted significant attention from researchers in various 
 - John Langford: Known for his contributions to contextual MABs and online learning.
 - Sébastien Bubeck: A prominent researcher in the theoretical analysis of MAB algorithms.
 - Lihong Li: Known for his work on bandit algorithms for large-scale applications.
+- ...
 
 These researchers, along with many others, have contributed to the development of theoretical foundations, algorithms, and applications of MABs. This has made the field an active and growing area of research with ongoing advancements in both theory and practice.
 
