@@ -8,7 +8,7 @@ permalink: /mab/
 ### Introduction to Multi-armed Bandits (MABs)
 
 {: .text-justify}
-*Multi-Armed Bandit (MAB)* is a fundamental framework for sequential decision-making problems. In this setting, a decision-maker (or player) faces a set of arms, each with an unknown reward distribution. At each time step, the player must choose an arm to pull, receiving a reward drawn from that arm's distribution. The goal is to maximize the cumulative reward over time. MABs are a versatile tool with applications in various fields, including:
+*Multi-Armed Bandit (MAB)* is a fundamental framework for sequential decision-making problems. In this setting, a decision-maker (or player) faces a set of arms, each with an unknown reward distribution. At each time step, the player must choose an arm to pull, receiving a reward drawn from the environment (or arm's distribution). The goal is to maximize the cumulative reward over time. MABs are a versatile tool with applications in various fields, including:
 - Recommender Systems: Optimizing content recommendations based on user preferences.
 - Clinical Trials: Determining the most effective treatment for a disease.
 - Online Advertising: Optimizing ad placements to maximize click-through rates.
