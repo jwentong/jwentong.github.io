@@ -4,8 +4,6 @@ author_profile: true
 title: MAB
 permalink: /mab/
 ---
-
- ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
  
 ### Introduction to Multi-armed Bandits (MABs)
 
