@@ -5,6 +5,8 @@ title: MAB
 permalink: /mab/
 ---
 
+ ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
+ 
 ### Introduction to Multi-armed Bandits (MABs)
 
 {: .text-justify}
@@ -28,10 +30,6 @@ The MAB problem has attracted significant attention from researchers in various 
 - ...
 
 These researchers, along with many others, have contributed to the development of theoretical foundations, algorithms, and applications of MABs. This has made the field an active and growing area of research with ongoing advancements in both theory and practice.
-
-
-   ![test](https://github.com/jwentong/jwentong.github.io/raw/master/assets/images/mabfig_02.jpg)
-   
 
 
 ### Theoretical Parts
