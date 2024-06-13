@@ -16,14 +16,14 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Biography
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. Degree in Electrical Engineering from China Jiliang University, China, in 2015, and the M.S. Degree in Electrical Engineering from Ningbo University, Ningbo, China, in 2018. He received the Ph.D. Degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, large language model (LLM), and resource allocation in wireless communications. Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
+*Jingwen Tong* received the B.E. degree in Electrical Engineering from China Jiliang University, China, in 2015, and the M.Sc. degree in Electrical Engineering from Ningbo University, Ningbo, China, in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, large language model (LLM), and resource allocation in wireless communications. Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
 
 {: .text-justify}
 * 2022.06-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
 * 2018.09-2022.06, Ph.D. Degree, Department of Informatics and Communication Engineering, Xiamen University. Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 * 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, Ningbo University. Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-* 2011.09-2015.06, B.E. Degree, Communication Engineering, China Jiliang University.
+* 2011.09-2015.06, B.Eng. Degree, Communication Engineering, China Jiliang University.
 
 ---
 ### What's News
