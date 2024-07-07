@@ -20,10 +20,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify}
 * 2022.06-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
-* 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/);
-* 2018.09-2022.06, Ph.D. Degree, Department of Informatics and Communication Engineering, Xiamen University. Supervisor: Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
-* 2015.09-2018.06, M.Phil. Degree, Department of Information and Communication Engineering, Ningbo University. Supervisor: Prof. [Min Jin](https://scholar.google.com/citations?user=dpgtDH8AAAAJ&hl=en).
-* 2011.09-2015.06, B.Eng. Degree, Communication Engineering, China Jiliang University.
+* 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisor: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 ---
 ### What's News
