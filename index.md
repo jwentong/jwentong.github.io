@@ -16,7 +16,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Biography
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in Electrical Engineering from China Jiliang University in 2015, and the M.Phil. degree in Electrical Engineering from Ningbo University in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB), optimization, large language model (LLM), and resource allocation in wireless communications. Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
+*Jingwen Tong* received the B.E. degree in Electrical Engineering from China Jiliang University in 2015, and the M.Phil. degree in Electrical Engineering from Ningbo University in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB) and its applications in wireless communications and generative AI for wireless networks.  Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
 
 ---
 ### Work Experience
@@ -26,9 +26,10 @@ The Hong Kong University of Science and Technology (HKUST)
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 ---
-### What's News
+### What's New
 
 {: .text-justify}
+- [08/2024] One of our papers titled "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*" has been accepted by Globecom 2024. Congrats to Weiya!
 - [06/2024] One of our papers titled "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*" has been accepted by the Journal of Communications and Information Networks.
 - [05/2024] One of our papers titled "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*" has been accepted by the IEEE Transactions on Wireless Communications.
 - [04/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
@@ -53,7 +54,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [03/2022] I received the Post-doctoral Fellowship in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
 
 ---
-### Publications
+### Publication
 
 **Journal:**
 
@@ -71,9 +72,10 @@ The Hong Kong University of Science and Technology (HKUST)
 **Conference:**
 
 {: .text-justify} 
+1.   W. Wei, J. Tong, and L. Fu, "Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems" GC 2024 - IEEE Global Communications Conference (GLOBECOM), 2019. To appear.
 1.   Z. Chen, J. Tong, L. Fu, and Z. Han, "Over-the-Air Computing Aided Federated Learning and Analytics via Belief Propagation Based Stochastic Bandits," ICC 2022 - IEEE International Conference on Communications, 2022, pp. 2804-2809, doi: 10.1109/ICC45855.2022.9839106.
-1.   J. Tong, S. Lai, L. Fu, and Z. Han, "Optimal Frequency and Rate Selection Using Unimodal Objective Based Thompson Sampling Algorithm," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9148988.
-1.   J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks via Adversarial Multi-Player Multi-Armed Bandit," 2019 IEEE Global Communications Conference (GLOBECOM), 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013810.
+1.   J. Tong, S. Lai, L. Fu, and Z. Han, "Optimal Frequency and Rate Selection Using Unimodal Objective Based Thompson Sampling Algorithm," ICC 2020 - IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9148988.
+1.   J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks via Adversarial Multi-Player Multi-Armed Bandit," GC 2019 - IEEE Global Communications Conference (GLOBECOM), 2019, pp. 1-6, doi: 10.1109/GLOBECOM38437.2019.9013810.
 
 **Patent:**
 
