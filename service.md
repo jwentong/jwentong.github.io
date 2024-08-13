@@ -5,11 +5,6 @@ title: Service
 permalink: /service/
 ---
 
-**Session Chair**
-
-{: .text-justify}
-* IEEE/CIC International Conference on Communications in China (ICCC), 2021
-
 **Conference Organizer**
 
 {: .text-justify}
@@ -17,7 +12,12 @@ permalink: /service/
 * IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, 2023
 * Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, 2022
 
-**Technical Program Committee**
+**Session Chair**
+
+{: .text-justify}
+* IEEE/CIC International Conference on Communications in China (ICCC), 2021
+
+**Technical Program Committee Member**
 {: .text-justify}
 * IEEE Global Telecommunications Conference (Globecom), 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
 * IEEE Global Telecommunications Conference (Globecom), 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
