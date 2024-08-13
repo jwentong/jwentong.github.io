@@ -47,7 +47,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [09/2022] We successfully held a conference workshop with Huawei on Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
 - [09/2022] I established a new homepage powered by *Github Page* based on the theme of [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
 - [06/2022] I received the Ph.D. from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
-- [03/2022] I received a Postdoctoral Fellowship in the Department of ECE from the Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
+- [03/2022] I got a Postdoctoral Fellowship in the Department of ECE from the Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
 
 ---
 ### Publication
