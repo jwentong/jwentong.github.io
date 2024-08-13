@@ -38,20 +38,16 @@ The Hong Kong University of Science and Technology (HKUST)
 - [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
 - [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
-- [07/2023] A paper titled "*Federated Online Restless Bandits: A Thompson Sampling-Enabled Whittle Index Algorithm*" has been submitted for possible journal publication.
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
 - [06/2023] We are going to hold a 6G wireless summit in Hong Kong on Sept. 13-14 titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)". Welcome! 
-- [05/2023] A paper titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been submitted to possible journal publication.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
 - [03/2023] We published an article in the WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
 - [02/2023] One of our papers titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
-- [01/2023] A paper titled "*From learning to analytics: Improving model efficacy with goal-directed client selection*" has been submitted for possible journal publication.
-- [10/2022] A paper titled "*Online resource allocation for user experience improvement in mobile edge clouds*" has been submitted for possible journal publication.
 - [09/2022] We successfully held a conference workshop with Huawei on Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
 - [09/2022] I established a new homepage powered by *Github Page* based on the theme of [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
-- [06/2022] I received the Ph.D. degree from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
-- [03/2022] I received the Post-doctoral Fellowship in Dept. of ECE from The Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
+- [06/2022] I received the Ph.D. from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
+- [03/2022] I received a Postdoctoral Fellowship in the Department of ECE from the Hong Kong University of Science and Technology, Supervised by Prof. Jun Zhang. 
 
 ---
 ### Publication
