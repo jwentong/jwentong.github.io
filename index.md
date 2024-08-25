@@ -22,7 +22,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Work Experience
 
 {: .text-justify}
-* 2022.06-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/); 
+* 2022.06-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 ---
