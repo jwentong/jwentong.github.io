@@ -29,7 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
-- [08/2024] One of our papers titled "*A Federated Online Restless Bandit Framework for Cooperative Resource allocation*" has been accepted by the IEEE Transactions on Mobile Computing.
+- [08/2024] One of our papers titled "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*" has been accepted by the IEEE Transactions on Mobile Computing.
 - [08/2024] One of our papers titled "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*" has been accepted by Globecom 2024. Congrats to Weiya!
 - [06/2024] One of our papers titled "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*" has been accepted by the Journal of Communications and Information Networks.
 - [05/2024] One of our papers titled "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*" has been accepted by the IEEE Transactions on Wireless Communications.
@@ -56,6 +56,7 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
+1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, 2024. [PDF](https://arxiv.org/pdf/2406.07992)
 1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelssLLM: Empowering Large Language Models Towards Wireless Intelligence" in Journal of Communications and Information Networks, 2024. [PDF](https://arxiv.org/pdf/2405.17053)
 1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications. doi: 10.1109/TWC.2024.3403996. [PDF](https://arxiv.org/pdf/2405.17053)
 1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing. doi: 10.1109/TMC.2024.3383038. [PDF](https://arxiv.org/pdf/2404.04482)
