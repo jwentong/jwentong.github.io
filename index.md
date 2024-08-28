@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [08/2024] One of our papers titled "*A Federated Online Restless Bandit Framework for Cooperative Resource allocation*" has been accepted by the IEEE Transactions on Mobile Computing.
 - [08/2024] One of our papers titled "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*" has been accepted by Globecom 2024. Congrats to Weiya!
 - [06/2024] One of our papers titled "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*" has been accepted by the Journal of Communications and Information Networks.
 - [05/2024] One of our papers titled "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*" has been accepted by the IEEE Transactions on Wireless Communications.
