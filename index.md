@@ -29,7 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
-- [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication.
+- [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [ArXiv](https://arxiv.org/abs/2409.07964)
 - [08/2024] One of our papers, "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*", has been accepted by the IEEE Transactions on Mobile Computing.
 - [08/2024] One of our papers, "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*," has been accepted by Globecom 2024. Congrats to Weiya!
 - [06/2024] One of our papers, "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*", has been accepted by the Journal of Communications and Information Networks.
@@ -57,16 +57,17 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
-1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, 2024. doi: 10.1109/TMC.2024.3453250 [PDF](https://arxiv.org/pdf/2406.07992)
+**By 2024**
+1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3453250, 2024. [PDF](https://arxiv.org/pdf/2406.07992)
 1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelssLLM: Empowering Large Language Models Towards Wireless Intelligence" in Journal of Communications and Information Networks, 2024. [PDF](https://arxiv.org/pdf/2405.17053)
-1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications. doi: 10.1109/TWC.2024.3403996. [PDF](https://arxiv.org/pdf/2405.17053)
-1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing. doi: 10.1109/TMC.2024.3383038. [PDF](https://arxiv.org/pdf/2404.04482)
-1.  J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications. doi: 10.1109/TWC.2023.3247450.
-1.  J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3179305.
-1.  J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022, doi: 10.1109/TCOMM.2022.3161679. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/MPMAB_RIS_TwoColumn.pdf)
-1.  J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug.1, 2021, doi: 10.1109/JIOT.2021.3068182. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
-1.  J. Tong, M. Jin, Q. Guo, and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, April 2018, doi: 10.1109/TWC.2018.2801833. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2018_Cooperative_TWC01.pdf)
-1.  J. Tong, M. Jin, Q. Guo, and L. Qu, "Energy Detection Under Interference Power Uncertainty," in IEEE Communications Letters, vol. 21, no. 8, pp. 1887-1890, Aug. 2017, doi: 10.1109/LCOMM.2017.2705025. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2017_Energy_CL01.pdf)
+1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in EEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3403996, 2024. [PDF](https://arxiv.org/pdf/2405.17053)
+1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in EEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3383038, 2024. [PDF](https://arxiv.org/pdf/2404.04482)
+1.  J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6946-6961, Oct. 2023.
+1.  J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9775-9790, Nov. 2022.
+1.  J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022. [PDF](https://arxiv.org/abs/2406.05780)
+1.  J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug. 2021. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
+1.  J. Tong, M. Jin, Q. Guo, and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, Apr. 2018. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2018_Cooperative_TWC01.pdf)
+1.  J. Tong, M. Jin, Q. Guo, and L. Qu, "Energy Detection Under Interference Power Uncertainty," in IEEE Communications Letters, vol. 21, no. 8, pp. 1887-1890, Aug. 2017. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2017_Energy_CL01.pdf)
 
 **Conference:**
 
