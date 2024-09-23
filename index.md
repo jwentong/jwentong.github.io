@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [09/2024] We successfully held the 2nd 6G wireless summit in the Sheraton Hong Kong Hotel & Towers, on Sept. 13-14. More details please see the conference the [Website](https://hk6gws2024.ieee-hk6gws.org/) and [Image Gallery](https://6g-aoe.hkust.edu.hk/newsevents/).
 - [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [ArXiv](https://arxiv.org/abs/2409.07964)
 - [08/2024] One of our papers, "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*", has been accepted by the IEEE Transactions on Mobile Computing.
 - [08/2024] One of our papers, "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*," has been accepted by Globecom 2024. Congrats to Weiya!
@@ -41,7 +42,6 @@ The Hong Kong University of Science and Technology (HKUST)
 - [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
-- [06/2023] We are going to hold a 6G wireless summit in Hong Kong on Sept. 13-14 titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)". Welcome! 
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
 - [03/2023] We published an article in the WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
