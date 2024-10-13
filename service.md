@@ -9,14 +9,14 @@ permalink: /service/
 
 {: .text-justify}
 * IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024), Sept. 11-12, Hong Kong, 2024
-* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, Hong Kong2023
+* IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023), Sept. 13-14, Hong Kong, 2023
 * Huawei-HKUST Joint Workshop on Theory for Future Wireless, Sept. 15-16, Hong Kong, 2022
 * IEEE/CIC International Conference on Communications in China (ICCC), Xiammen, 2021
 
 **Session Chair**
 
 {: .text-justify}
-* IEEE/CIC International Conference on Communications in China (ICCC), 2021
+* IEEE/CIC International Conference on Communications in China (ICCC), Xiamen, 2021
 
 **Technical Program Committee Member**
 {: .text-justify}
