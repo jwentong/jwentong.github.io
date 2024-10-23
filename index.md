@@ -33,12 +33,12 @@ The Hong Kong University of Science and Technology (HKUST)
 - [10/2024] One of our papers, "*LLM-Slice: Dedicated Wireless Network Slicing for Large   Language Models*," has been accepted by SenSys 2024. Congrats to Boyi!
 - [09/2024] We successfully held the 2nd 6G wireless summit in the Sheraton Hong Kong Hotel & Towers, on Sept. 11-12. For more details, please see the conference [Website](https://hk6gws2024.ieee-hk6gws.org/) and [Image Gallery](https://6g-aoe.hkust.edu.hk/newsevents/).
 - [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [ArXiv](https://arxiv.org/abs/2409.07964)
-- [08/2024] One of our papers, "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*," has been accepted by the IEEE Transactions on Mobile Computing. [PDF](https://arxiv.org/pdf/2406.07992)
+- [08/2024] One of our papers, "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*," has been accepted by the IEEE Transactions on Mobile Computing. [Paper](https://arxiv.org/pdf/2406.07992)
 - [08/2024] One of our papers, "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*," has been accepted by Globecom 2024. Congrats to Weiya! 
-- [06/2024] One of our papers, "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*," has been accepted by the Journal of Communications and Information Networks. [PDF](https://arxiv.org/pdf/2405.17053)
-- [05/2024] One of our papers, "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*," has been accepted by the IEEE Transactions on Wireless Communications. [PDF](https://arxiv.org/pdf/2405.17053)
+- [06/2024] One of our papers, "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*," has been accepted by the Journal of Communications and Information Networks. [Paper](https://arxiv.org/pdf/2405.17053)
+- [05/2024] One of our papers, "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*," has been accepted by the IEEE Transactions on Wireless Communications. [Paper](https://arxiv.org/pdf/2405.17053)
 - [04/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
-- [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing. [PDF](https://arxiv.org/pdf/2404.04482)
+- [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing. [Paper](https://arxiv.org/pdf/2404.04482)
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
 - [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
 - [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
