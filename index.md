@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
 - [10/2024] I was invited to serve on the technical program committee for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
 - [10/2024] One of our papers, "*LLM-Slice: Dedicated Wireless Network Slicing for Large   Language Models*," has been accepted by SenSys 2024. Congrats to Boyi!
 - [09/2024] We successfully held the 2nd 6G wireless summit in the Sheraton Hong Kong Hotel & Towers, on Sept. 11-12. For more details, please see the conference [Website](https://hk6gws2024.ieee-hk6gws.org/) and [Image Gallery](https://6g-aoe.hkust.edu.hk/newsevents/).
