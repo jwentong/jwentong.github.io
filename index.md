@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng!
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
 - [10/2024] I was invited to serve on the technical program committee for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
 - [10/2024] One of our papers, "*LLM-Slice: Dedicated Wireless Network Slicing for Large   Language Models*," has been accepted by SenSys 2024. Congrats to Boyi!
