@@ -16,7 +16,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Biography
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in Electrical Engineering from China Jiliang University in 2015, and the M.Phil. degree in Electrical Engineering from Ningbo University in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University, China, in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB) and its applications in wireless communications and generative AI for wireless networks.  Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
+*Jingwen Tong* received the B.E. degree in Communication Engineering from China Jiliang University in 2015, and the M.Phil. degree in Electrical Engineering from Ningbo University in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include multi-armed bandit (MAB) and its applications in wireless communications and generative AI for wireless networks.  Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
 
 ---
 ### Work Experience
