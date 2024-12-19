@@ -29,6 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
 - [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [arXiv](https://arxiv.org/pdf/2412.04832)
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
 - [10/2024] I was invited to serve on the technical program committee for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
