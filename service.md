@@ -20,10 +20,12 @@ permalink: /service/
 
 **Technical Program Committee Member**
 {: .text-justify}
-* IEEE Global Telecommunications Conference (Globecom), 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
-* IEEE Global Telecommunications Conference (Globecom), 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
-* IEEE International Conference on Communications (ICC), 2024, (WS06: Task-Oriented and Generative Communications for 6G)
-* IEEE Wireless Communications and Networking Conference (WCNC), 2024, (WS-15: Model-Driven Deep Learning for 6G)
+* IEEE INFOCOM WKSHPS, 2025, (ICCN: IEEE International Workshop on Intelligent Cloud Computing and Networking)
+* IEEE VTC Spring, 2025, (IoV: IoT, M2M, Sensor Networks, and Ad-Hoc Networking)
+* IEEE Globecom, 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
+* IEEE Globecom, 2023, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
+* IEEE ICC, 2024, (WS06: Task-Oriented and Generative Communications for 6G)
+* IEEE WCNC WKSHPS, 2024, (WS-15: Model-Driven Deep Learning for 6G)
 
 ---
 **Reviewer for**
