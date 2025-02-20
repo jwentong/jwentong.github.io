@@ -30,12 +30,12 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify}
 - [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
-- [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [arXiv](https://arxiv.org/pdf/2412.04832)
+- [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [Paper](https://arxiv.org/pdf/2412.04832) [Code](https://github.com/wenchaozheng/WRF-GS)
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
 - [10/2024] I was invited to serve on the technical program committee for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
 - [10/2024] One of our papers, "*LLM-Slice: Dedicated Wireless Network Slicing for Large   Language Models*," has been accepted by SenSys 2024. Congrats to Boyi!
 - [09/2024] We successfully held the 2nd 6G wireless summit in the Sheraton Hong Kong Hotel & Towers, on Sept. 11-12. For more details, please see the conference [Website](https://hk6gws2024.ieee-hk6gws.org/) and [Image Gallery](https://6g-aoe.hkust.edu.hk/newsevents/).
-- [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [arXiv](https://arxiv.org/abs/2409.07964)
+- [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [Paper](https://arxiv.org/abs/2409.07964)
 - [08/2024] One of our papers, "*A Federated Online Restless Bandit Framework for Cooperative Resource Allocation*," has been accepted by the IEEE Transactions on Mobile Computing. [Paper](https://arxiv.org/pdf/2406.07992)
 - [08/2024] One of our papers, "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*," has been accepted by Globecom 2024. Congrats to Weiya! 
 - [06/2024] One of our papers, "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*," has been accepted by the Journal of Communications and Information Networks. [Paper](https://arxiv.org/pdf/2405.17053)
