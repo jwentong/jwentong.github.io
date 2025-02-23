@@ -29,7 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
-- [02/2025] Our group's name and logo in HUUST have been launched. 
+- [02/2025] Our group's name and logo in HUUST have been launched. [Logo](https://github.com/jwentong/jwentong.github.io/tree/master/assets/images/Lab-Log.pdf)
 - [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
 - [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [Paper](https://arxiv.org/pdf/2412.04832) [Code](https://github.com/wenchaozheng/WRF-GS)
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
