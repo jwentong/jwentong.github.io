@@ -30,7 +30,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify}
 - [03/2025] I was invited to serve on the technical program committee for Globecom 2025 (CRAEN Track).
-- [02/2025] Recently, we have launched our group's Name ([ComAI Lab: The Integrated Communications and AI Lab](https://eejzhang.people.ust.hk/)) and Logo [ComAI Lab](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/Lab_Logo.pdf)!
+- [02/2025] We have launched our group's Name ([ComAI Lab: The Integrated Communications and AI Lab](https://eejzhang.people.ust.hk/)) and Logo [ComAI Lab](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/Lab_Logo.pdf)!
 - [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
 - [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [Paper](https://arxiv.org/pdf/2412.04832) and [Code](https://github.com/wenchaozheng/WRF-GS)
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
