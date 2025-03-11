@@ -29,12 +29,12 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
-- [03/2025] I was invited to serve on the technical program committee for Globecom 2025 (CRAEN Track).
+- [03/2025] I was invited to serve as the technical program committee member for Globecom 2025 (CRAEN Track).
 - [02/2025] We have launched our group's Name ([ComAI Lab: The Integrated Communications and AI Lab](https://eejzhang.people.ust.hk/)) and Logo [ComAI Lab](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/Lab_Logo.pdf)!
 - [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
 - [12/2024] One of our papers, "*WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by INFOCOM 2025. Congrats to Chaozheng! [Paper](https://arxiv.org/pdf/2412.04832) and [Code](https://github.com/wenchaozheng/WRF-GS)
 - [11/2024] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been submitted to a possible journal for publication.
-- [10/2024] I was invited to serve on the technical program committee for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
+- [10/2024] I was invited to serve on the technical program committee member for WCNC 2025 (Track 3: Resource Allocation and Machine Learning).
 - [10/2024] One of our papers, "*LLM-Slice: Dedicated Wireless Network Slicing for Large   Language Models*," has been accepted by SenSys 2024. Congrats to Boyi! [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2410.18499)
 - [09/2024] We successfully held the 2nd 6G wireless summit in the Sheraton Hong Kong Hotel & Towers, on Sept. 11-12. For more details, please see the conference [Website](https://hk6gws2024.ieee-hk6gws.org/) and [Image Gallery](https://6g-aoe.hkust.edu.hk/newsevents/).
 - [09/2024] One of our papers, "*WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks*," has been submitted to a possible journal for publication. [Paper](https://arxiv.org/abs/2409.07964)
@@ -42,15 +42,15 @@ The Hong Kong University of Science and Technology (HKUST)
 - [08/2024] One of our papers, "*Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems*," has been accepted by Globecom 2024. Congrats to Weiya! 
 - [06/2024] One of our papers, "*WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence*," has been accepted by the Journal of Communications and Information Networks. [Paper](https://arxiv.org/pdf/2405.17053)
 - [05/2024] One of our papers, "*Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds*," has been accepted by the IEEE Transactions on Wireless Communications. [Paper](https://arxiv.org/pdf/2405.17053)
-- [04/2024] I was invited to serve on the technical program committee for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
+- [04/2024] I was invited to serve on the technical program committee member for Globecom 2024 (Cognitive Radio and AI-Enabled Network Symposium).
 - [03/2024] One of our papers titled "*From Learning to Analytics: Improving Model Efficacy with Goal-Directed Client Selection*" has been accepted by the IEEE Transactions on Mobile Computing. [Paper](https://arxiv.org/pdf/2404.04482)
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
-- [02/2024] I was invited to serve on the technical program committee for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
-- [01/2024] I was invited to serve on the technical program committee for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
+- [02/2024] I was invited to serve on the technical program committee member for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
+- [01/2024] I was invited to serve on the technical program committee member for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
 - [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
-- [03/2023] I was invited to serve on the technical program committee for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
+- [03/2023] I was invited to serve on the technical program committee member for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
 - [03/2023] We published an article in the WeChat public account about ChatGPT meets Wireless. [Article](https://mp.weixin.qq.com/s/cA4UcqhLKBGJBLdsbt2GWA), [Slide](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/ChatGPT_Wireless_FinalVerision.pdf)
 - [02/2023] One of our papers titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [09/2022] We successfully held a conference workshop with Huawei on Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
