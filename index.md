@@ -64,16 +64,16 @@ The Hong Kong University of Science and Technology (HKUST)
 # Selected Journal Publications
 
 ## ![JCIN Logo](mabfig_01.jpg) WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence
-**Authors:** Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, Jun Zhang (*Corresponding authors*)  
+**Authors:** Jiawei Shao, **Jingwen Tong**, Qiong Wu, Wei Guo, Zijian Li, Zehong Lin, Jun Zhang (*Corresponding authors*)  
 **Journal:** _J. Commun. Inf. Netw. (JCIN)_, vol. 9, pp. 99-112, Jun. 2024.  
 [![PDF](Favicon.png)](https://arxiv.org/abs/2405.17053) <span style="color: red;">**Cover Article**
 
 ---
 
-## ![TWC Logo](path-to-twc-logo.png) Dynamic Clustering and Power Control for Two-Tier Wireless Federated Learning
-**Authors:** **Wei Guo**, Chuan Huang*, Xiaoqi Qin, Lian Yang, Wei Zhang  
-**Journal:** _IEEE Trans. Wireless Commun. (TWC)_, vol. 23, no. 2, pp. 1356-1371, Feb. 2024.  
-[![PDF](path-to-pdf-icon.png)](link-to-pdf)
+## ![TWC Logo](mabfig_01.jpg) Age-of-Information Oriented Scheduling for Multichannel IoT Systems with Correlated Sources
+**Authors:** **Jingwen Tong**, Liqun Fu, Zhu Han  
+**Journal:** _IEEE Trans. Wireless Commun. (TWC)_, vol. 21, no. 11, pp. 9775-9790, Nov. 2022.  
+[![PDF](Favicon.png)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9791123)
 
 
 **Journal:**
