@@ -66,7 +66,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ## ![JCIN Logo](mabfig.jpg) WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence
 **Authors:** Jiawei Shao, Jingwen Tong, Qiong Wu, **Wei Guo**, Zijian Li, Zehong Lin, Jun Zhang (*Corresponding authors*)  
 **Journal:** _J. Commun. Inf. Netw. (JCIN)_, vol. 9, pp. 99-112, Jun. 2024.  
-[![PDF](Favicon.png)](https://arxiv.org/abs/2405.17053) **Cover Article**
+[![PDF](Favicon.png)](https://arxiv.org/abs/2405.17053) <span style="color: red;">**Cover Article**
 
 ---
 
