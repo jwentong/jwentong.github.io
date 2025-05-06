@@ -29,7 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
-- [05/2025] One of our papers, "*WirelessAgent: Large language model agents for intelligent wireless networks*," has been submitted to a possible journal for publication. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc)
+- [05/2025] One of our papers, "*WirelessAgent: Large language model agents for intelligent wireless networks*," has been submitted to a possible journal for publication. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [Canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc)
 - [03/2025] I was invited to serve as the technical program committee member for Globecom 2025 (CRAEN Track).
 - [02/2025] We have launched our group's Name ([ComAI Lab: The Integrated Communications and AI Lab](https://eejzhang.people.ust.hk/)) and Logo [ComAI Lab](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/Lab_Logo.pdf)!
 - [12/2024] One of our papers, "*Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation*," has been accepted by WCNC 2025. Congrats to Shumin!
