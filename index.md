@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 ---
 
-**Post-Doctoral Fellow** (2022 - Now)
+**Post-Doctoral Fellow**
 
 {: .text-justify} 
 Department of Electronic and Computer Engineering (ECE) 
