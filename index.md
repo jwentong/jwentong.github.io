@@ -82,7 +82,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 {: .text-justify} 
 1.   S. Lian, J. Tong, and L. Fu. Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation. IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025. 
-1.   C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting, IEEE International Conference on Computer Communications (INFOCOM), London, HK, 2025.
+1.   C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting, IEEE International Conference on Computer Communications (INFOCOM), London, HK, 2025. [PDF](https://arxiv.org/pdf/2412.04832)
 1.   B. Liu, J. Tong, and J. Zhang. LLM-Slice: Dedicated 5G Wireless Network Slicing for Large Language Models, ACM Conference on Embedded Networked Sensor Systems (SenSys), Hangzhou, China, 2024. 
 1.   W. Ni, J. Tong, and L. Fu, "Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems" GC 2024 - IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 2024.
 1.   Z. Chen, J. Tong, L. Fu, and Z. Han, "Over-the-Air Computing Aided Federated Learning and Analytics via Belief Propagation Based Stochastic Bandits," ICC 2022 - IEEE International Conference on Communications (ICC), 2022, pp. 2804-2809, doi: 10.1109/ICC45855.2022.9839106.
