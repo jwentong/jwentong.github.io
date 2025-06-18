@@ -22,7 +22,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Work Experience
 
 {: .text-justify}
-* 2022.06-Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
+* 2022.06- Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 ---
@@ -48,7 +48,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [03/2024] We are going to hold the 2nd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2024)](https://hk6gws2024.ieee-hk6gws.org/)". Welcome!
 - [02/2024] I was invited to serve as a technical program committee member for ICC 2024 WS06 (Task-Oriented and Generative Communications for 6G).
 - [01/2024] I was invited to serve as a technical program committee member for WCNC 2024 WS-15 (Model-Driven Deep Learning for 6G).
-- [09/2023] We successfully held the 6G wireless summit in Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
+- [09/2023] We successfully held the 6G wireless summit in the Hong Kong Shangri-La Hotel on Sept. 13-14. More details please see "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2023)](https://hk6gws2023.ieee-hk6gws.org/)".
 - [07/2023] One of our papers titled "*Geo-perturbation for task allocation in 3D mobile crowdsourcing: an A3C-based Approach*" has been accepted by the IEEE Internet of Things Journal.
 - [04/2023] I received the Reviewer Certificate from IET Communications for my review contributions to the journal. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/CMU2 Reviewer Certificate 2022.pdf)
 - [03/2023] I was invited to serve as a technical program committee member for Globecom 2023 CRAEN (Cognitive Radio and AI-Enabled Networks Symposium).
@@ -56,7 +56,7 @@ The Hong Kong University of Science and Technology (HKUST)
 - [02/2023] One of our papers titled "*Model-based Thompson sampling for frequency and rate selection in underwater acoustic communications*" has been accepted by IEEE Transactions on Wireless Communications.
 - [09/2022] We successfully held a conference workshop with Huawei on Sept. 15-16  titled "[Huawei-HKUST Joint Workshop on Theory for Future Wireless](https://wireless-workshop-2022.hkust.edu.hk/)". 
 - [09/2022] I established a new homepage powered by *Github Page* based on the theme of [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
-- [06/2022] I received the Ph.D. from Xiamen University, supervised by Profs. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
+- [06/2022] I received the Ph.D. from Xiamen University, supervised by Prof. Liqun Fu and Zhu Han. [Thesis](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/10384_081001_23320180155680_LW_童景文.pdf)
 - [03/2022] I received a Postdoctoral Fellowship in the Department of ECE from the Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang. 
 
 ---
@@ -66,23 +66,23 @@ The Hong Kong University of Science and Technology (HKUST)
 **Journal:**
 
 {: .text-justify} 
-1.  S. Lian, J. Tong, J. Zhang, and L. Fu, "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" in IEEE Journal on Selected Areas in Communications, May 2025.
-1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3453250, 2024. [PDF](https://arxiv.org/pdf/2406.07992)
-1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelssLLM: Empowering Large Language Models Towards Wireless Intelligence" in Journal of Communications and Information Networks, 2024. [PDF](https://arxiv.org/pdf/2405.17053)
-1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3403996, 2024. [PDF](https://arxiv.org/pdf/2405.17053)
-1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3383038, 2024. [PDF](https://arxiv.org/pdf/2404.04482)
-1.  J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6946-6961, Oct. 2023. [PDF](https://ieeexplore.ieee.org/document/10061446)
-1.  J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9775-9790, Nov. 2022. [PDF](https://ieeexplore.ieee.org/document/9791123)
-1.  J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022. [PDF](https://arxiv.org/abs/2406.05780)
-1.  J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug. 2021. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
-1.  J. Tong, M. Jin, Q. Guo, and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, Apr. 2018. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2018_Cooperative_TWC01.pdf)
-1.  J. Tong, M. Jin, Q. Guo, and L. Qu, "Energy Detection Under Interference Power Uncertainty," in IEEE Communications Letters, vol. 21, no. 8, pp. 1887-1890, Aug. 2017. [PDF](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2017_Energy_CL01.pdf)
+1.  S. Lian, J. Tong, J. Zhang, and L. Fu, "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" in IEEE Journal on Selected Areas in Communications, May 2025. [Paper](https://www.arxiv.org/abs/2506.04594), [Code](https://github.com/Lianshumin576/MLOandMCTS)
+1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3453250, 2024. [Paper](https://arxiv.org/pdf/2406.07992)
+1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence" in Journal of Communications and Information Networks, 2024. [Paper](https://arxiv.org/pdf/2405.17053)
+1.  L. Fu, J. Tong, T. Lin, and J. Zhang,  "Data-Driven Online Resource Allocation for User Experience Improvement in Mobile Edge Clouds," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3403996, 2024. [Paper](https://arxiv.org/pdf/2405.17053)
+1.  J. Tong, Z. Chen, L. Fu, J. Zhang, and Z. Han,  "From Learning to Analytics: Improving Model Efficacy With Goal-Directed Client Selection," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3383038, 2024. [Paper](https://arxiv.org/pdf/2404.04482)
+1.  J. Tong, L. Fu, Y. Wang, and Z. Han, "Model-Based Thompson Sampling for Frequency and Rate Selection in Underwater Acoustic Communications," in IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6946-6961, Oct. 2023. [Paper](https://ieeexplore.ieee.org/document/10061446)
+1.  J. Tong, L. Fu, and Z. Han, "Age-of-Information Oriented Scheduling for Multi-Channel IoT Systems with Correlated Sources," in IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9775-9790, Nov. 2022. [Paper](https://ieeexplore.ieee.org/document/9791123)
+1.  J. Tong, H. Zhang, L. Fu, A. Leshem, and Z. Han, "Two-Stage Resource Allocation in Reconfigurable Intelligent Surface Assisted Hybrid Networks via Multi-player Bandits," in IEEE Transactions on Communications, vol. 70, no. 5, pp. 3526-3541, May 2022. [Paper](https://arxiv.org/abs/2406.05780)
+1.  J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug. 2021. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
+1.  J. Tong, M. Jin, Q. Guo, and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, Apr. 2018. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2018_Cooperative_TWC01.pdf)
+1.  J. Tong, M. Jin, Q. Guo, and L. Qu, "Energy Detection Under Interference Power Uncertainty," in IEEE Communications Letters, vol. 21, no. 8, pp. 1887-1890, Aug. 2017. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2017_Energy_CL01.pdf)
 
 **Conference:**
 
 {: .text-justify} 
 1.   S. Lian, J. Tong, and L. Fu. Dynamic Channel Allocation via Bandit Learning for WiFi 7 Networks With Multi-Link Operation. IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025. 
-1.   C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting, IEEE International Conference on Computer Communications (INFOCOM), London, HK, 2025. [PDF](https://arxiv.org/pdf/2412.04832)
+1.   C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting, IEEE International Conference on Computer Communications (INFOCOM), London, UK, 2025. [Paper](https://arxiv.org/pdf/2412.04832), [Code](https://github.com/wenchaozheng/WRF-GSplus)
 1.   B. Liu, J. Tong, and J. Zhang. LLM-Slice: Dedicated 5G Wireless Network Slicing for Large Language Models, ACM Conference on Embedded Networked Sensor Systems (SenSys), Hangzhou, China, 2024. 
 1.   W. Ni, J. Tong, and L. Fu, "Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems" GC 2024 - IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 2024.
 1.   Z. Chen, J. Tong, L. Fu, and Z. Han, "Over-the-Air Computing Aided Federated Learning and Analytics via Belief Propagation Based Stochastic Bandits," ICC 2022 - IEEE International Conference on Communications (ICC), 2022, pp. 2804-2809, doi: 10.1109/ICC45855.2022.9839106.
