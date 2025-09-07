@@ -29,9 +29,9 @@ The Hong Kong University of Science and Technology (HKUST)
 ### What's New
 
 {: .text-justify}
+- [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
 - [08/2025] I was invited to serve as a reviewer for the SPCOM area of ICSSP 2026.
 - [07/2025] I was invited to serve as the technical program committee member for WCNC 2025 (Machine Learning and Optimization for Wireless Systems Track).
-- [06/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
 - [05/2025] One of our papers, "*Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM*," has been accepted by JSAC 2025. Congrats to Shumin! [Paper](https://www.arxiv.org/abs/2506.04594), [Code](https://github.com/Lianshumin576/MLOandMCTS)
 - [05/2025] One of our papers, "*WirelessAgent: Large language model agents for intelligent wireless networks*," has been submitted to a possible journal for publication. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [Canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc)
 - [03/2025] I was invited to serve as the technical program committee member for Globecom 2025 (CRAEN Track).
