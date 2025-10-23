@@ -27,30 +27,6 @@ The Hong Kong University of Science and Technology (HKUST)
 
 ---
 ### What's New
-- [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
-
-<!-- Social Media Share Buttons -->
-<div class="social-share">
-  <a href="https://twitter.com/share?url=[current_url]&text=Check%20out%20Dr.%20Jingwen%20Tong%20at%20IEEE%20HK6GWS%202025" target="_blank">Share on Twitter</a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=[current_url]&title=Dr.%20Jingwen%20Tong%20at%20IEEE%20HK6GWS%202025" target="_blank">Share on LinkedIn</a>
-</div>
-<!-- Comments Section -->
-<div id="disqus_thread"></div>
-<script>
-  var disqus_config = function () {
-    this.page.url = '[current_url]'; 
-    this.page.identifier = '[unique_identifier]'; 
-  };
-  (function() { 
-    var d = document, s = d.createElement('script');
-    s.src = 'https://[your_disqus_subdomain].disqus.com/embed.js'; 
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
-</script>
-
-
-
 {: .text-justify}
 - [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
 - [08/2025] I was invited to serve as a reviewer for the SPCOM area of ICSSP 2026.
