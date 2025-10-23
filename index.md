@@ -28,6 +28,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ---
 ### What's New
 
+{: .text-justify}
 - [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
 - [08/2025] I was invited to serve as a reviewer for the SPCOM area of ICSSP 2026.
 - [07/2025] I was invited to serve as the technical program committee member for WCNC 2025 (Machine Learning and Optimization for Wireless Systems Track).
@@ -65,13 +66,14 @@ The Hong Kong University of Science and Technology (HKUST)
 
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
   An innovative approach combining large language models with wireless networking.  
-  [Project Image](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/WirelessAgent.png) 
+  ![Project Image](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/WirelessAgent.png) 
   [Watch Demo](https://youtu.be/4fqADkT_XMc)
 
 <div class="highlight-box">
   <h3>New Research Accepted: JSAC 2025</h3>
   <p>Our paper titled "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation" has been accepted by JSAC 2025!</p>
   <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
+  <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
 </div>
 
 <style>
