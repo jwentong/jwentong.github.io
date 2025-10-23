@@ -85,12 +85,11 @@ The Hong Kong University of Science and Technology (HKUST)
 - [03/2022] I received a Postdoctoral Fellowship in the Department of ECE from the Hong Kong University of Science and Technology, supervised by Prof. Jun Zhang. 
 
 ---
-### Publication
 ### Recent Projects
 
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
   An innovative approach combining large language models with wireless networking.  
-  ![Project Image](project_image.jpg)  
+  ![Project Image](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/WirelessAgent.png) 
   [Watch Demo](https://youtu.be/4fqADkT_XMc)
 
 <div class="highlight-box">
@@ -117,6 +116,9 @@ The Hong Kong University of Science and Technology (HKUST)
     background-color: #2980b9;
   }
 </style>
+
+---
+### Publication
 
 **Journal:**
 
