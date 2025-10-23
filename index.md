@@ -27,6 +27,29 @@ The Hong Kong University of Science and Technology (HKUST)
 
 ---
 ### What's New
+- [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
+
+<!-- Social Media Share Buttons -->
+<div class="social-share">
+  <a href="https://twitter.com/share?url=[current_url]&text=Check%20out%20Dr.%20Jingwen%20Tong%20at%20IEEE%20HK6GWS%202025" target="_blank">Share on Twitter</a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=[current_url]&title=Dr.%20Jingwen%20Tong%20at%20IEEE%20HK6GWS%202025" target="_blank">Share on LinkedIn</a>
+</div>
+<!-- Comments Section -->
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = '[current_url]'; 
+    this.page.identifier = '[unique_identifier]'; 
+  };
+  (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://[your_disqus_subdomain].disqus.com/embed.js'; 
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+
+
 
 {: .text-justify}
 - [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
@@ -63,7 +86,37 @@ The Hong Kong University of Science and Technology (HKUST)
 
 ---
 ### Publication
+### Recent Projects
 
+- **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
+  An innovative approach combining large language models with wireless networking.  
+  ![Project Image](project_image.jpg)  
+  [Watch Demo](https://youtu.be/4fqADkT_XMc)
+
+<div class="highlight-box">
+  <h3>New Research Accepted: JSAC 2025</h3>
+  <p>Our paper titled "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation" has been accepted by JSAC 2025!</p>
+  <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
+</div>
+
+<style>
+  .highlight-box {
+    background-color: #f7f7f7;
+    border-left: 5px solid #3498db;
+    padding: 15px;
+    margin: 20px 0;
+  }
+  .button-link {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .button-link:hover {
+    background-color: #2980b9;
+  }
+</style>
 
 **Journal:**
 
