@@ -38,7 +38,6 @@ The Hong Kong University of Science and Technology (HKUST)
   <style>
     .highlight-box {
       background-color: #fafafa;
-      padding: 5px;
       margin: 5px 0;
     }
     .button-link {
