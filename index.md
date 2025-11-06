@@ -69,6 +69,10 @@ The Hong Kong University of Science and Technology (HKUST)
   <p align="center"><img src="assets/images/WirelessAgent.png" width="800"></p>
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   [Watch Demo](https://youtu.be/4fqADkT_XMc)
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe src="https://www.youtube.com/embed/4fqADkTXWc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 
 <div class="highlight-box">
   <h3>New Research Accepted: JSAC 2025</h3>
