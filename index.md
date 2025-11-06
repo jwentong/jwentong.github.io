@@ -66,7 +66,7 @@ The Hong Kong University of Science and Technology (HKUST)
 
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
   An innovative approach combining large language models with wireless networking.  
-  ![Image](https://github.com/jwentong/jwentong.github.io/blob/master/assets/images/mabfig_02.jpg) 
+  ![Project_Image](https://raw.github.com/jwentong/jwentong.github.io/master/assets/images/WirelessAgent.png) 
   [Watch Demo](https://youtu.be/4fqADkT_XMc)
 
 <div class="highlight-box">
