@@ -65,7 +65,8 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Recent Projects
 
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
-  {: .text-justify} This work introduces \emph{WirelessAgent}, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture.  
+  {: .text-justify}
+  This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture.  
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
     <iframe
@@ -81,7 +82,8 @@ The Hong Kong University of Science and Technology (HKUST)
 <div style="height:24px"></div>
 - **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
   <div class="highlight-box">
-    <p> {: .text-justify} This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. We formulate this challenge as a combinatorial optimization problem, leveraging a novel network performance analysis mechanism. Given the inherent lack of prior network information, we model the problem within a Multi-Armed Bandit (MAB) framework to enable online learning of optimal channel allocations. Our proposed Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm includes rigorous theoretical analysis, providing upper bounds for both sample complexity and error probability. To further reduce sample complexity and enhance generalizability across diverse network scenarios, we put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
+    <p> {: .text-justify} 
+      This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. We formulate this challenge as a combinatorial optimization problem, leveraging a novel network performance analysis mechanism. Given the inherent lack of prior network information, we model the problem within a Multi-Armed Bandit (MAB) framework to enable online learning of optimal channel allocations. Our proposed Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm includes rigorous theoretical analysis, providing upper bounds for both sample complexity and error probability. To further reduce sample complexity and enhance generalizability across diverse network scenarios, we put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
     <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
     <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
   </div>
