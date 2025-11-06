@@ -67,8 +67,8 @@ The Hong Kong University of Science and Technology (HKUST)
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
     <div class="highlight-box">
         <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
-        <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
-        <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
+        <a href="https://arxiv.org/pdf/2505.01074" class="button-link">Read Paper</a>
+        <a href="https://github.com/jwentong/WirelessAgent_R1" class="button-link">Github Code</a>
   </div>
   <style>
     .highlight-box {
@@ -89,7 +89,6 @@ The Hong Kong University of Science and Technology (HKUST)
     }
   </style>
   
-  <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
     <iframe
       src="https://www.youtube-nocookie.com/embed/4fqADkT_XMc"
@@ -108,6 +107,7 @@ The Hong Kong University of Science and Technology (HKUST)
     <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
     <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
   </div>
+  <p align="center"><img src="assets/images/MLO-JSAC.png" width="800"></p>
 
 ---
 ### Publication
