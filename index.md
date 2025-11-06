@@ -67,12 +67,12 @@ The Hong Kong University of Science and Technology (HKUST)
 
 <div style="height:24px"></div>
 - **[WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](https://arxiv.org/pdf/2412.04832)** 
-  <div class="highlight-box">
-    <p style="text-align: justify;"> Wireless channel modeling plays a pivotal role in designing, analyzing, and optimizing wireless communication systems. Nevertheless, developing an effective channel modeling approach has been a longstanding challenge. This issue has been escalated due to the denser network deployment, larger antenna arrays, and wider bandwidth in 5G and beyond networks. To address this challenge, we put forth WRF-GS, a novel framework for channel modeling based on wireless radiation field (WRF) reconstruction using 3D Gaussian splatting. WRF-GS employs 3D Gaussian primitives and neural networks to capture the interactions between the environment and radio signals, enabling efficient WRF reconstruction and visualization of the propagation characteristics. The reconstructed WRF can then be used to synthesize the spatial spectrum for comprehensive wireless channel characterization. Notably, with a small number of measurements, WRF-GS can synthesize new spatial spectra within milliseconds for a given scene, thereby enabling latency-sensitive applications.</p>
-    <a href="https://arxiv.org/pdf/2412.04832" class="button-link">Read Paper</a>
-    <a href="https://github.com/wenchaozheng/WRF-GSplus" class="button-link">Github Code</a>
-  </div>
-  <p align="center"><img src="assets/images/spectra.png" width="800"></p>
+    <div class="highlight-box">
+        <p style="text-align: justify;"> Wireless channel modeling plays a pivotal role in designing, analyzing, and optimizing wireless communication systems. Nevertheless, developing an effective channel modeling approach has been a longstanding challenge. This issue has been escalated due to the denser network deployment, larger antenna arrays, and wider bandwidth in 5G and beyond networks. To address this challenge, we put forth WRF-GS, a novel framework for channel modeling based on wireless radiation field (WRF) reconstruction using 3D Gaussian splatting. WRF-GS employs 3D Gaussian primitives and neural networks to capture the interactions between the environment and radio signals, enabling efficient WRF reconstruction and visualization of the propagation characteristics. The reconstructed WRF can then be used to synthesize the spatial spectrum for comprehensive wireless channel characterization. Notably, with a small number of measurements, WRF-GS can synthesize new spatial spectra within milliseconds for a given scene, thereby enabling latency-sensitive applications.</p>
+        <a href="https://arxiv.org/pdf/2412.04832" class="button-link">Read Paper</a>
+        <a href="https://github.com/wenchaozheng/WRF-GSplus" class="button-link">Github Code</a>
+    </div>
+    <p align="center"><img src="assets/images/spectra.png" width="800"></p>
 
 <div style="height:24px"></div>
 - **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
