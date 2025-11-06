@@ -67,7 +67,6 @@ The Hong Kong University of Science and Technology (HKUST)
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
   An innovative approach combining large language models with wireless networking.  
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
-  [Watch Demo](https://youtu.be/4fqADkT_XMc)
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
     <iframe
       src="https://www.youtube-nocookie.com/embed/4fqADkT_XMc"
@@ -81,31 +80,30 @@ The Hong Kong University of Science and Technology (HKUST)
 
 <div style="height:24px"></div>
 - **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
-<div class="highlight-box">
-  <h3>New Research Accepted: JSAC 2025</h3>
-  <p>Our paper titled "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" has been accepted by JSAC 2025!</p>
-  <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
-  <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
-</div>
-
-<style>
-  .highlight-box {
-    background-color: #f7f7f7;
-    border-left: 5px solid #3498db;
-    padding: 15px;
-    margin: 20px 0;
-  }
-  .button-link {
-    background-color: #3498db;
-    color: white;
-    padding: 10px 15px;
-    text-decoration: none;
-    border-radius: 5px;
-  }
-  .button-link:hover {
-    background-color: #2980b9;
-  }
-</style>
+  <div class="highlight-box">
+    <h3>New Research Accepted: JSAC 2025</h3>
+    <p>Our paper titled "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" has been accepted by JSAC 2025!</p>
+    <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
+    <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
+  </div>
+  <style>
+    .highlight-box {
+      background-color: #f7f7f7;
+      border-left: 5px solid #3498db;
+      padding: 15px;
+      margin: 20px 0;
+    }
+    .button-link {
+      background-color: #3498db;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .button-link:hover {
+      background-color: #2980b9;
+    }
+  </style>
 
 ---
 ### Publication
