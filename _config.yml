@@ -25,7 +25,7 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 locale                   : "en-US"
 title                    : "Welcome to Jingwen Tong's Homepage"
 title_separator          : "-"
-subtitle                 : "Multi-Armed Bandits and LLM-Based AI Agents"
+subtitle                 : "AI Agents and Multi-Armed Bandits"
 name                     : "jwentong"
 description              : "An amazing website."
 url                      : "https://jwentong.github.io/" # protocol for your site e.g. "https://mmistakes.github.io"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "Dr. Jingwen Tong"
   avatar           : "/assets/images/JingwenTong_USA.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "School of Informatics, Xiamen University"
+  bio              : "Assistant Professor, Shenzhen University"
   email            : "eejwentong@ust.hk"
   location         : "Room 3112A, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong"
   links:
