@@ -65,10 +65,10 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Recent Projects
 
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
-<div class="highlight-box">
-    <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
-    <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
-    <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
+    <div class="highlight-box">
+        <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
+        <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
+        <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
   </div>
   <style>
     .highlight-box {
@@ -108,24 +108,6 @@ The Hong Kong University of Science and Technology (HKUST)
     <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
     <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
   </div>
-  <style>
-    .highlight-box {
-      background-color: #f7f7f7;
-      border-left: 5px solid #3498db;
-      padding: 15px;
-      margin: 20px 0;
-    }
-    .button-link {
-      background-color: #3498db;
-      color: white;
-      padding: 10px 15px;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .button-link:hover {
-      background-color: #2980b9;
-    }
-  </style>
 
 ---
 ### Publication
