@@ -64,9 +64,31 @@ The Hong Kong University of Science and Technology (HKUST)
 ---
 ### Recent Projects
 
-{: .text-justify}
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
-  This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture.  
+<div class="highlight-box">
+    <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
+    <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
+    <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
+  </div>
+  <style>
+    .highlight-box {
+      background-color: #f7f7f7;
+      border-left: 5px solid #3498db;
+      padding: 15px;
+      margin: 20px 0;
+    }
+    .button-link {
+      background-color: #3498db;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .button-link:hover {
+      background-color: #2980b9;
+    }
+  </style>
+  
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
     <iframe
@@ -80,7 +102,6 @@ The Hong Kong University of Science and Technology (HKUST)
   </div>
 
 <div style="height:24px"></div>
-{: .text-justify}
 - **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
   <div class="highlight-box">
     <p style="text-align: justify;"> This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. We formulate this challenge as a combinatorial optimization problem, leveraging a novel network performance analysis mechanism. Given the inherent lack of prior network information, we model the problem within a Multi-Armed Bandit (MAB) framework to enable online learning of optimal channel allocations. Our proposed Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm includes rigorous theoretical analysis, providing upper bounds for both sample complexity and error probability. To further reduce sample complexity and enhance generalizability across diverse network scenarios, we put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
