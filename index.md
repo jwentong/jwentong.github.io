@@ -29,7 +29,7 @@ The Hong Kong University of Science and Technology (HKUST)
 ---
 ### Recent Projects
 
-1. **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
+- **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
     <div class="highlight-box">
         <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
         <a href="https://arxiv.org/pdf/2505.01074" class="button-link">Read Paper</a>
@@ -66,7 +66,7 @@ The Hong Kong University of Science and Technology (HKUST)
   </div>
 
 <div style="height:24px"></div>
-1. **[WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](https://arxiv.org/pdf/2412.04832)** 
+- **[WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](https://arxiv.org/pdf/2412.04832)** 
   <div class="highlight-box">
     <p style="text-align: justify;"> Wireless channel modeling plays a pivotal role in designing, analyzing, and optimizing wireless communication systems. Nevertheless, developing an effective channel modeling approach has been a longstanding challenge. This issue has been escalated due to the denser network deployment, larger antenna arrays, and wider bandwidth in 5G and beyond networks. To address this challenge, we put forth WRF-GS, a novel framework for channel modeling based on wireless radiation field (WRF) reconstruction using 3D Gaussian splatting. WRF-GS employs 3D Gaussian primitives and neural networks to capture the interactions between the environment and radio signals, enabling efficient WRF reconstruction and visualization of the propagation characteristics. The reconstructed WRF can then be used to synthesize the spatial spectrum for comprehensive wireless channel characterization. Notably, with a small number of measurements, WRF-GS can synthesize new spatial spectra within milliseconds for a given scene, thereby enabling latency-sensitive applications.</p>
     <a href="https://arxiv.org/pdf/2412.04832" class="button-link">Read Paper</a>
@@ -75,7 +75,7 @@ The Hong Kong University of Science and Technology (HKUST)
   <p align="center"><img src="assets/images/spectra.png" width="800"></p>
 
 <div style="height:24px"></div>
-1. **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
+- **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
   <div class="highlight-box">
     <p style="text-align: justify;"> This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. It formulates this channel allocation problem as a combinatorial optimization problem, which then can be modeled as a Multi-Armed Bandit (MAB) framework. It proposes a Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm to solve this MAB problem. To further reduce sample complexity and enhance generalizability across diverse network scenarios, it put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
     <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
