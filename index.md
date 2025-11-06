@@ -70,13 +70,20 @@ The Hong Kong University of Science and Technology (HKUST)
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   [Watch Demo](https://youtu.be/4fqADkT_XMc)
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe src="https://www.youtube.com/embed/4fqADkTXWc" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/4fqADkT_XMc"
+      title="YouTube video player"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
   </div>
 
-
+- **[ntelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
 <div class="highlight-box">
   <h3>New Research Accepted: JSAC 2025</h3>
-  <p>Our paper titled "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation" has been accepted by JSAC 2025!</p>
+  <p>Our paper titled "ntelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" has been accepted by JSAC 2025!</p>
   <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
   <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
 </div>
