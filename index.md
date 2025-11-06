@@ -80,10 +80,10 @@ The Hong Kong University of Science and Technology (HKUST)
   </div>
 
 <div style="height:24px"></div>
+{: .text-justify}
 - **[Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM](https://www.arxiv.org/abs/2506.04594)** 
   <div class="highlight-box">
-    <p> {: .text-justify} 
-      This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. We formulate this challenge as a combinatorial optimization problem, leveraging a novel network performance analysis mechanism. Given the inherent lack of prior network information, we model the problem within a Multi-Armed Bandit (MAB) framework to enable online learning of optimal channel allocations. Our proposed Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm includes rigorous theoretical analysis, providing upper bounds for both sample complexity and error probability. To further reduce sample complexity and enhance generalizability across diverse network scenarios, we put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
+    <p>This work addresses the dynamic channel allocation problem in dense WiFi 7 networks with multi-link operation capabilities. We formulate this challenge as a combinatorial optimization problem, leveraging a novel network performance analysis mechanism. Given the inherent lack of prior network information, we model the problem within a Multi-Armed Bandit (MAB) framework to enable online learning of optimal channel allocations. Our proposed Best-Arm Identification-enabled Monte Carlo Tree Search (BAI-MCTS) algorithm includes rigorous theoretical analysis, providing upper bounds for both sample complexity and error probability. To further reduce sample complexity and enhance generalizability across diverse network scenarios, we put forth LLM-BAI-MCTS, an intelligent algorithm for the dynamic channel allocation problem by integrating the Large Language Model (LLM) into the BAI-MCTS algorithm.</p>
     <a href="https://www.arxiv.org/abs/2506.04594" class="button-link">Read Paper</a>
     <a href="https://github.com/Lianshumin576/MLOandMCTS" class="button-link">Github Code</a>
   </div>
