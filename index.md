@@ -64,8 +64,8 @@ The Hong Kong University of Science and Technology (HKUST)
 ---
 ### Recent Projects
 
+{: .text-justify}
 - **[WirelessAgent: Large language model agents for intelligent wireless networks](https://github.com/jwentong/WirelessAgent_R1)**  
-  {: .text-justify}
   This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture.  
   <p align="center"><img src="assets/images/WA-Youtube.png" width="800"></p>
   <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
