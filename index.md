@@ -81,6 +81,22 @@ The Hong Kong University of Science and Technology (HKUST)
   </div>
   <p align="center"><img src="assets/images/MLO-JSAC.png" width="800"></p>
 
+- **[WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence (JCIN 2024)](https://arxiv.org/pdf/2405.17053)**  
+    <div class="highlight-box">
+        <p style="text-align: justify;"> This paper proposes WirelessLLM, a comprehensive framework for adapting and enhancing LLMs to address the unique challenges and requirements of wireless communication networks. We first identify three foundational principles that underpin WirelessLLM: knowledge alignment, knowledge fusion, and knowledge evolution. Then, we investigate the enabling technologies to build WirelessLLM, including prompt engineering, retrieval augmented generation, tool usage, multi-modal pre-training, and domain-specific fine-tuning. Moreover, we present three case studies to demonstrate the practical applicability and benefits of WirelessLLM for solving typical problems in wireless networks. Finally, we conclude this paper by highlighting key challenges and outlining potential avenues for future research. </p>
+        <a href="https://arxiv.org/pdf/2405.17053" class="button-link">Read Paper</a>
+        <a href="https://youtu.be/1WuxhsNkD40" class="button-link">Watch Video</a>
+  </div>
+  <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/1WuxhsNkD40" 
+      title="YouTube video player"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      referrerpolicy="strict-origin-when-cross-origin">
+    </iframe>
+  </div>
 
 ---
 ### What's New
