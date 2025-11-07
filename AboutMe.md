@@ -18,6 +18,7 @@ My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with a
 Here is my [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
 
 <p align="center"><img src="{{ '/assets/images/Assm_1.png' | relative_url }}" style="display:block;margin:0 auto;max-width:100%;height:auto;" alt="About image"></p>
+<p align="center"><img src="assets/images/spectra.png" width="800"></p>
 
 ---
 ### Work Experience
