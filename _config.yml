@@ -124,7 +124,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://eejzhang.people.ust.hk/group.html"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=4Bvv2zMAAAAJ&hl=zh-EN"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
