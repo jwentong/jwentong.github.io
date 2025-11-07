@@ -9,7 +9,7 @@ permalink: /service/
 ### About Me
 
 {: .text-justify}
-Hello! I am an Assistant Professor of Electronic and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015. From 2019 to 2020, I was a visiting scholar at the University of Houston, USA.
+Hello! I am Jingwen Tong, an Assistant Professor of Electronic and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015. From 2019 to 2020, I was a visiting scholar at the University of Houston, USA.
 
 My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
 
@@ -80,9 +80,9 @@ Here is my [CV](https://github.com/jwentong/jwentong.github.io/tree/master/asset
 **Awards and Honors**
 
 {: .text-justify}
-* Excellent doctoral dissertation in Xiamen University, 2022 
+* Excellent doctoral dissertation at Xiamen University, 2022 
 * Outstanding Graduate from Xiamen University, 2022
-* Wande scholarship in Xiamen Univeristy, 2022
+* Wande scholarship in Xiamen University, 2022
 * IEEE ComSoc Student Travel Grant for IEEE ICC，2020 
 * The Chinese Government Scholarship for study abroad, 2019
 * Outstanding Graduate from Ningbo University, 2018
