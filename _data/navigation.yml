@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: https://jwentong.github.io/
-  - title: "Service"
+  - title: "About Me"
     url: /service/ 
   - title: "Honor"
     url: /honor/ 
