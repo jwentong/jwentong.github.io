@@ -8,6 +8,7 @@ permalink: /service/
 ---
 ### About Me
 
+<p align="center"><img src="assets/images/spectra.png" width="800"></p>
 {: .text-justify}
 Hello! I am Jingwen Tong, an Assistant Professor of Electronic and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022. From 2019 to 2020, I was a visiting scholar at the University of Houston, USA.
 I obtained the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
