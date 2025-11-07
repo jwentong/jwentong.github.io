@@ -151,8 +151,6 @@ The Hong Kong University of Science and Technology (HKUST)
 1.  J. Tong, L. Fu, and Z. Han, "Throughput Enhancement of Full-Duplex CSMA Networks Using Multiplayer Bandits," in IEEE Internet of Things Journal, vol. 8, no. 15, pp. 11807-11821, 1 Aug. 2021. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2021_Throughput_IoT01.pdf)
 1.  J. Tong, M. Jin, Q. Guo, and Y. Li, "Cooperative Spectrum Sensing: A Blind and Soft Fusion Detector," in IEEE Transactions on Wireless Communications, vol. 17, no. 4, pp. 2726-2737, Apr. 2018. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2018_Cooperative_TWC01.pdf)
 1.  J. Tong, M. Jin, Q. Guo, and L. Qu, "Energy Detection Under Interference Power Uncertainty," in IEEE Communications Letters, vol. 21, no. 8, pp. 1887-1890, Aug. 2017. [Paper](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/2017_Energy_CL01.pdf)
-
-{: .text-justify} 
 1.   B. Liu, J. Tong, and J. Zhang. LLM-Slice: Dedicated 5G Wireless Network Slicing for Large Language Models, ACM Conference on Embedded Networked Sensor Systems (SenSys), Hangzhou, China, 2024. 
 1.   W. Ni, J. Tong, and L. Fu, "Online Resource Allocation for User Experience Improvement in Heterogeneous MEC Systems" GC 2024 - IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 2024.
 1.   Z. Chen, J. Tong, L. Fu, and Z. Han, "Over-the-Air Computing Aided Federated Learning and Analytics via Belief Propagation Based Stochastic Bandits," ICC 2022 - IEEE International Conference on Communications (ICC), 2022, pp. 2804-2809, doi: 10.1109/ICC45855.2022.9839106.
