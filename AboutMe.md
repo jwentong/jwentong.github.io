@@ -9,7 +9,7 @@ permalink: /service/
 ### About Me
 
 {: .text-justify}
-Hello! I am Jingwen Tong, an Assistant Professor at the School of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. From 2019 to 2020, I was also a visiting scholar at the University of Houston, USA. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
+Hello! I am Jingwen Tong, an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. From 2019 to 2020, I was also a visiting scholar at the University of Houston, USA. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
 
 {: .text-justify}
 My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
@@ -22,7 +22,7 @@ Here is my [CV](https://github.com/jwentong/jwentong.github.io/tree/master/asset
 ### Work Experience
 
 {: .text-justify}
-* 2026.01- Now, Assistant Professor, School of Electronic and Information Engineering at Shenzhen University. Work closely with Prof. [Shengli Zhang](https://scholar.google.com/citations?user=vjujlkoAAAAJ&hl=en)
+* 2026.01- Now, Assistant Professor, College of Electronics and Information Engineering at Shenzhen University. Work closely with Prof. [Shengli Zhang](https://scholar.google.com/citations?user=vjujlkoAAAAJ&hl=en)
 * 2022.06- 2026.01, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
