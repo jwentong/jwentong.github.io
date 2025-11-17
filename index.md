@@ -139,7 +139,9 @@ The Hong Kong University of Science and Technology (HKUST)
 
 
 {: .text-justify} 
-1.  C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting, IEEE International Conference on Computer Communications (INFOCOM), London, UK, 2025. [Paper](https://arxiv.org/pdf/2412.04832), [Code](https://github.com/wenchaozheng/WRF-GSplus)
+1.  J. Tong, W. Guo, J. Shao, Q. Wu, Z. Li, Z. Lin, and J. Zhang, "WirelessAgent: Large language model agents for intelligent wireless networks," China Communications, Nov. 2025. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [Canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc).
+1.  C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. "Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach", IEEE Transactions on Wireless Communications, Oct. 2025. [Paper](https://arxiv.org/pdf/2412.04832), [Code](https://github.com/wenchaozheng/WRF-GSplus)
+1.  C. Wen, J. Tong, Y. Hu, Z. Lin, and J. Zhang. "WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting", IEEE International Conference on Computer Communications (INFOCOM), London, UK, 2025. [Paper](https://arxiv.org/pdf/2412.04832), [Code](https://github.com/wenchaozheng/WRF-GSplus)
 1.  S. Lian, J. Tong, J. Zhang, and L. Fu, "Intelligent Channel Allocation for IEEE 802.11be Multi-Link Operation: When MAB Meets LLM" in IEEE Journal on Selected Areas in Communications, May 2025. [Paper](https://www.arxiv.org/abs/2506.04594), [Code](https://github.com/Lianshumin576/MLOandMCTS)
 1.  J. Tong, X. Li, L. Fu, J. Zhang, and K. Letaief, "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation" in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3453250, 2024. [Paper](https://arxiv.org/pdf/2406.07992)
 1.  J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, "WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence" in Journal of Communications and Information Networks, 2024. [Paper](https://arxiv.org/pdf/2405.17053)
