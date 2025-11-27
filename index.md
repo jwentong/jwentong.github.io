@@ -16,7 +16,11 @@ The Hong Kong University of Science and Technology (HKUST)
 ### Biography
 
 {: .text-justify}
-*Jingwen Tong* received the B.E. degree in Communication Engineering from China Jiliang University in 2015, and the M.Phil. degree in Electrical Engineering from Ningbo University in 2018. He received the Ph.D. degree in the School of Informatics from Xiamen University in 2022.  From 2019 to 2020, he was a visiting scholar at the University of Houston, USA. Currently, he is a Postdoctoral Fellow with the Department of Electronic and Computer Engineering (ECE) at The Hong Kong University of Science and Technology (HKUST). His main research interests include AI agents and multi-armed bandit (MAB) and its applications in wireless communications.  Here is the [CV](https://github.com/jwentong/jwentong.github.io/tree/master/assets/documents/Jingwen-Tong.pdf).
+Hello! I am Jingwen Tong, an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), working with Prof. Jun Zhang and collaborating closely with Prof. Khaled Ben Letaief. From 2019 to 2020, I was also a visiting scholar at the University of Houston, USA. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
+
+{: .text-justify}
+My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
+
 
 ---
 ### Work Experience
