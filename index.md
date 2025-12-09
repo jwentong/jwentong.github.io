@@ -34,7 +34,7 @@ My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with a
 ---
 ### Recent Projects
 
-- **[WirelessAgent: Large language Model Agents for Intelligent Wireless Networks](https://github.com/jwentong/WirelessAgent_R1)**  
+- **[WirelessAgent: Large language Model Agents for Intelligent Wireless Networks (ChinaComm 2026)](https://github.com/jwentong/WirelessAgent_R1)**  
     <div class="highlight-box">
         <p style="text-align: justify;"> This work introduces WirelessAgent, a novel framework that harnesses large language models (LLMs) to create autonomous AI agents for diverse wireless network tasks. It first defines a general framework for WirelessAgent, supported by key components and principles in AI agents. Then, it introduces a basic usage to implement the WirelessAgent based on agentic workflows and the LangGraph architecture. </p>
         <a href="https://arxiv.org/pdf/2505.01074" class="button-link">Read Paper</a>
