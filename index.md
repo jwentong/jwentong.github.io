@@ -107,6 +107,7 @@ My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with a
 ### What's New
 
 {: .text-justify}
+- [12/2025] I was invited to serve as a technical program committee member for INFOCOM 2025 ICCN (International Workshop on Intelligent Cloud Computing and Networking).
 - [11/2025] One of our papers, "*WirelessAgent: Large language model agents for intelligent wireless networks*," has been accepted by China Communications 2025. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [Canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc)
 - [10/2025] One of our papers, "*Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach*," has been accepted by IEEE Transactions on Wireless Communications 2025. Congrats to Chaozheng! [Paper](https://arxiv.org/pdf/2412.04832) and [Code](https://github.com/wenchaozheng/WRF-GS)
 - [09/2025] We are going to hold the 3rd 6G wireless summit in Hong Kong on Sept. 11-12, titled "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2025)](https://hk6gws2025.ieee-hk6gws.org/)". Welcome!
