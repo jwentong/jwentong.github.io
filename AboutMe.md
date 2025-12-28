@@ -46,6 +46,7 @@ Here is my [CV](https://github.com/jwentong/jwentong.github.io/tree/master/asset
 
 **Technical Program Committee Member**
 {: .text-justify}
+* IEEE INFOCOM WKSHPS, 2026, (ICCN: IEEE International Workshop on Intelligent Cloud Computing and Networking)
 * IEEE INFOCOM WKSHPS, 2025, (ICCN: IEEE International Workshop on Intelligent Cloud Computing and Networking)
 * IEEE Globecom, 2025, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
 * IEEE Globecom, 2024, (CRAEN: Cognitive Radio and AI-Enabled Networks Symposium)
