@@ -8,6 +8,9 @@ author_profile: true
 {: .text-justify}
 Shenzhen University (SZU) 
 
+{: .text-justify}
+College of Electronics and Information Engineering
+
 
 ---
 ### Biography
