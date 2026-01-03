@@ -3,21 +3,20 @@ layout: archive
 author_profile: true
 ---
 
-**Post-Doctoral Fellow**
+**Assistant Professor**
 
 {: .text-justify} 
-Department of Electronic and Computer Engineering (ECE) 
+College of Electronics and Information Engineering
 
 {: .text-justify}
-The Hong Kong University of Science and Technology (HKUST) 
+Shenzhen University (SZU) 
 
 
 ---
 ### Biography
 
 {: .text-justify}
-Hello! I am Jingwen Tong, a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST). I will be an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University from January 1, 2026.
-Before that, I was a visiting scholar at the University of Houston, USA, in 2020. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
+Hello! I am Jingwen Tong, an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST). Also, I was a visiting scholar at the University of Houston, USA, in 2020. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
 
 {: .text-justify}
 My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
@@ -27,7 +26,8 @@ My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with a
 ### Work Experience
 
 {: .text-justify}
-* 2022.06- Now, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
+* 2026.01- Now, Assistant Professor, College of Electronics and Information Engineering, Shenzhen University.
+* 2022.06- 2026.01, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 
