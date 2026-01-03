@@ -16,7 +16,7 @@ Shenzhen University (SZU)
 Hello! I am Jingwen Tong, an Assistant Professor in the College of Electronics and Information Engineering at Shenzhen University. Before that, I was a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST). Also, I was a visiting scholar at the University of Houston, USA, in 2020. I obtained my Ph.D. degree from the School of Informatics at Xiamen University in 2022, and the M.Phil. in Electrical Engineering from Ningbo University in 2018, and the B.E. in Communication Engineering from China Jiliang University in 2015.
 
 {: .text-justify}
-My research focuses on LLM-based AI agents and multi-armed bandits (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
+My research focuses on LLM-based AI Agents and Multi-Armed Bandit (MAB), with applications in wireless communications. I am broadly interested in building learning systems that make sequential decisions under uncertainty, efficiently explore large action spaces, and achieve robust performance in real-world networked environments.
 
 
 ---
