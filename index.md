@@ -26,8 +26,8 @@ My research focuses on LLM-based AI Agent and Multi-Armed Bandit (MAB), with app
 ### Work Experience
 
 {: .text-justify}
-* 2026.01- Now, Assistant Professor, College of Electronics and Information Engineering, Shenzhen University.
-* 2022.06- 2026.01, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
+* 2026.01-Now, Assistant Professor, College of Electronics and Information Engineering, Shenzhen University.
+* 2022.06-2026.01, Post-Doctoral Fellow, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology. Supervisor: Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) and work closely with Prof. [Khaled Ben Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled)  
 * 2019.10-2020.11, Visiting Scholar, Department of Electrical and Computer Engineering, University of Houston. Supervisors: Prof. [Zhu Han](http://www2.egr.uh.edu/~zhan2/) and Prof. [Liqun Fu](https://funlab2017.github.io/liqun.html);
 
 
