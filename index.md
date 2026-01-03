@@ -5,9 +5,6 @@ author_profile: true
 
 **Assistant Professor**
 
-{: .text-justify} 
-College of Electronics and Information Engineering
-
 {: .text-justify}
 Shenzhen University (SZU) 
 
