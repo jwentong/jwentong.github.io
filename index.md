@@ -107,7 +107,7 @@ My research focuses on LLM-based AI Agent and Multi-Armed Bandit (MAB), with app
 ### What's New
 
 {: .text-justify}
-- [01/2026] I joined Shenzhen University as an Assistant Professor (starting from Jan. 01, 2026).
+- [01/2026] I joined Shenzhen University as an Assistant Professor, starting from Jan. 01, 2026.
 - [01/2026] I was invited to serve as a technical program committee member for VTC-Spring 2026 (IoT, M2M, Sensor Networks, and Ad-Hoc Networking Section).
 - [12/2025] I was invited to serve as a technical program committee member for INFOCOM 2026 ICCN (International Workshop on Intelligent Cloud Computing and Networking).
 - [11/2025] One of our papers, "*WirelessAgent: Large language model agents for intelligent wireless networks*," has been accepted by China Communications 2025. [Paper](https://arxiv.org/pdf/2505.01074), [Code](https://github.com/jwentong/WirelessAgent_R1), [Canvas](https://poe.com/WirelessAgent-EN02), and [Video](https://youtu.be/4fqADkT_XMc)
