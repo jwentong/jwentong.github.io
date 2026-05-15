@@ -107,6 +107,8 @@ My research focuses on LLM-based AI Agent and Multi-Armed Bandit (MAB), with app
 ### What's New
 
 {: .text-justify}
+- [05/2026] I was invited to serve as a technical program committee member for IEEE GlobeCom 2026 SAC - SSC (2026 IEEE Global Communications Conference: Selected Areas in Communications: Satellite and Space Communications).
+- [04/2026] We are organizating a workshop on IEEE GLOBECOM 2026 ([AI Flow: Towards Ubiquitous Intelligencein the Era of Large Foundation Models](https://teleai-ai-flow.github.io/globecom-2026-workshop/)). Welcome to submit your papers to this workshop！
 - [03/2026] One of our papers, "*From Raw Data to Shared 3D Semantics: Task-Oriented Communication for Multi-Robot Collaboration*," has been accepted by ICMLCN 2026. Congrats to Ruibo! [Paper](https://arxiv.org/pdf/2602.08624).
 - [03/2026] I was invited to serve on the technical program committee for IEEE GlobeCom 2026 CRAEN (2026 IEEE Global Communications Conference: Cognitive Radio and AI-Enabled Network).
 - [01/2026] I joined Shenzhen University as an Assistant Professor, starting from Jan. 01, 2026.
