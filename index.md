@@ -107,6 +107,12 @@ My research focuses on LLM-based AI Agent and Multi-Armed Bandit (MAB), with app
 ### What's New
 
 {: .text-justify}
+- [09/2026] We are going to hold the 4rd 6G wireless summit in Hong Kong on Dec. 3-4, named "[IEEE Hong Kong 6G Wireless Summit (IEEE HK6GWS 2026)](https://hk6gws2026.ieee-hk6gws.org/)". Warmly Welcome!
+- [09/2026] We have launched our ongoing work WirelessAgent and you can try it on [website](https://wirelessagent.plus/)!
+- [08/2026] One of our papers, "*XFreq-GS: Cross-Frequency Wireless Radiation Field Reconstruction with 3D Gaussian Splatting*," has been accepted by GLOBECOM 2026. Congrats to Sheng Wang! [Paper](https://arxiv.org/pdf/2605.11432).
+- [07/2026] One of our papers, "*An LLM-Agent-Based Framework for Age of Information Optimization in Heterogeneous Multiple Access Networks*," has been accepted by OJ-COMS. Congrats to Prof. Liu! [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11627917).
+- [07/2026] One of our papers, "*Agentic Peer-to-Peer Networks: From Content Distribution to Capability and Action Sharing*," has been accepted by IEEE Wireless Communications. Congrats to Prof. Wang! [Paper](https://arxiv.org/pdf/2603.03753).
+- [06/2026] One of our papers, "*Bridging Visual and Wireless Sensing via a Unified Radiation Field for 3D Radio Map Construction*," has been accepted by npj Wireless Technology. Congrats to Chaozhen! [Paper](https://www.nature.com/articles/s44459-026-00067-6).
 - [06/2026] We are organizing the third OPC-AI Agent training camp; you are welcome to visit our webpage and view the registration details. [Website](https://szu-opc-camp.github.io/index.html).
 - [05/2026] I was invited to serve as a technical program committee member for IEEE GlobeCom 2026 SAC - SSC (2026 IEEE Global Communications Conference: Selected Areas in Communications: Satellite and Space Communications).
 - [04/2026] We are organizating a workshop on IEEE GLOBECOM 2026 ([AI Flow: Towards Ubiquitous Intelligencein the Era of Large Foundation Models](https://teleai-ai-flow.github.io/globecom-2026-workshop/)). Welcome to submit your papers to this workshop！
